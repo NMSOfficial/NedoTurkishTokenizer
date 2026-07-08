@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "NedoTurkishTokenizer: A Morphology-Aware Tokenizer and Human-Adjudicated Benchmark for Turkish"
+message: "If you use this tokenizer or Final1000 benchmark, please cite the accompanying paper and dataset DOI."
+type: software
+authors:
+  - family-names: Sezer
+    given-names: Nedim Mutlu
+repository-code: "TO_BE_FILLED"
+license: MIT
+version: "1.0.0-final1000"
+date-released: "2026-07-07"
+keywords:
+  - Turkish NLP
+  - morphology-aware tokenization
+  - language resources
+  - benchmark

@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nedo-turkish-tokenizer"
+version = "2.1.1"
+description = "Self-contained Turkish morphological tokenizer with zero external dependencies"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Ethosoft", email = "info@ethosoft.ai" }]
+requires-python = ">=3.10"
+keywords = ["turkish", "nlp", "tokenizer", "morphology", "segmentation"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+    "Natural Language :: Turkish",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.urls]
+Repository = "https://github.com/ethosoftai/NedoTurkishTokenizer"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["nedo_turkish_tokenizer*"]
+
+[tool.setuptools.package-data]
+nedo_turkish_tokenizer = ["data/*.txt"]

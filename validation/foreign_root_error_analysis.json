@@ -1,0 +1,116 @@
+{
+  "source": "codemix_foreign_240.json",
+  "cases": 240,
+  "P": 0.5882,
+  "R": 0.1667,
+  "F1": 0.2597,
+  "single_pct": 81.67,
+  "dominant_failure": "foreign roots with Turkish suffixes are often preserved as single unanalyzed tokens",
+  "examples": [
+    {
+      "word": "meetingler",
+      "gold": "meeting+ler",
+      "pred": "meetingler"
+    },
+    {
+      "word": "meetinglar",
+      "gold": "meeting+lar",
+      "pred": "meetinglar"
+    },
+    {
+      "word": "meetingde",
+      "gold": "meeting+de",
+      "pred": "meetingde"
+    },
+    {
+      "word": "meetingda",
+      "gold": "meeting+da",
+      "pred": "meetingda"
+    },
+    {
+      "word": "meetingden",
+      "gold": "meeting+den",
+      "pred": "meetingden"
+    },
+    {
+      "word": "meetingdan",
+      "gold": "meeting+dan",
+      "pred": "meetingdan"
+    },
+    {
+      "word": "meetinge",
+      "gold": "meeting+e",
+      "pred": "meetinge"
+    },
+    {
+      "word": "meetinga",
+      "gold": "meeting+a",
+      "pred": "meetinga"
+    },
+    {
+      "word": "pluginler",
+      "gold": "plugin+ler",
+      "pred": "pluginler"
+    },
+    {
+      "word": "pluginlar",
+      "gold": "plugin+lar",
+      "pred": "pluginlar"
+    },
+    {
+      "word": "pluginde",
+      "gold": "plugin+de",
+      "pred": "pluginde"
+    },
+    {
+      "word": "pluginda",
+      "gold": "plugin+da",
+      "pred": "pluginda"
+    },
+    {
+      "word": "pluginden",
+      "gold": "plugin+den",
+      "pred": "pluginden"
+    },
+    {
+      "word": "plugindan",
+      "gold": "plugin+dan",
+      "pred": "plugindan"
+    },
+    {
+      "word": "plugine",
+      "gold": "plugin+e",
+      "pred": "plugine"
+    },
+    {
+      "word": "plugina",
+      "gold": "plugin+a",
+      "pred": "plugina"
+    },
+    {
+      "word": "driverler",
+      "gold": "driver+ler",
+      "pred": "driverler"
+    },
+    {
+      "word": "driverlar",
+      "gold": "driver+lar",
+      "pred": "driverlar"
+    },
+    {
+      "word": "driverde",
+      "gold": "driver+de",
+      "pred": "driverde"
+    },
+    {
+      "word": "driverda",
+      "gold": "driver+da",
+      "pred": "driverda"
+    }
+  ],
+  "recommended_fix": [
+    "dedicated foreign-root suffix analyzer",
+    "vowel-harmony-aware suffix matching after foreign stems",
+    "separate natural code-mixed benchmark"
+  ]
+}

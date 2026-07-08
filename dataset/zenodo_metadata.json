@@ -1,0 +1,21 @@
+{
+  "title": "NedoTurkishTokenizer Final1000 Turkish Morphological Tokenization Gold Set",
+  "creators": [
+    {
+      "name": "Sezer, Nedim Mutlu",
+      "affiliation": "Ethosoft Research Group"
+    }
+  ],
+  "description": "A 1,000-item human-adjudicated Turkish morphological tokenization benchmark accompanying the NedoTurkishTokenizer paper.",
+  "keywords": [
+    "Turkish",
+    "tokenization",
+    "morphology",
+    "NLP",
+    "benchmark",
+    "language resources"
+  ],
+  "license": "MIT",
+  "upload_type": "dataset",
+  "related_identifiers": []
+}

@@ -1,0 +1,54 @@
+{
+  "overall": {
+    "cases": 1000,
+    "P": 0.7717,
+    "R": 0.6348,
+    "F1": 0.6966,
+    "exact_pct": 64.7,
+    "over_pct": 16.7,
+    "under_pct": 30.9,
+    "avg_len": 7.83,
+    "avg_gold_segments": 2.15
+  },
+  "by_origin": {
+    "adjudicated_new": {
+      "cases": 196,
+      "P": 0.5753,
+      "R": 0.4127,
+      "F1": 0.4806,
+      "exact_pct": 15.82,
+      "over_pct": 47.45,
+      "under_pct": 78.06,
+      "avg_len": 8.85,
+      "avg_gold_segments": 2.84
+    },
+    "adjudicated_old": {
+      "cases": 50,
+      "P": 0.5357,
+      "R": 0.375,
+      "F1": 0.4412,
+      "exact_pct": 18.0,
+      "over_pct": 44.0,
+      "under_pct": 76.0,
+      "avg_len": 7.96,
+      "avg_gold_segments": 2.6
+    },
+    "annotator_agreed": {
+      "cases": 754,
+      "P": 0.8732,
+      "R": 0.7772,
+      "F1": 0.8224,
+      "exact_pct": 80.5,
+      "over_pct": 6.9,
+      "under_pct": 15.65,
+      "avg_len": 7.56,
+      "avg_gold_segments": 1.94
+    }
+  },
+  "error_mode_counts": {
+    "over+under": 123,
+    "exact": 647,
+    "under": 186,
+    "over": 44
+  }
+}

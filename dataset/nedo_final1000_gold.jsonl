@@ -1,0 +1,1000 @@
+{"id": "1", "word": "onuruna", "segments": ["onur", "u", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_old"}
+{"id": "2", "word": "kale", "segments": ["kale"], "labels": [], "origin": "annotator_agreed"}
+{"id": "3", "word": "canları", "segments": ["can", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "4", "word": "kapsamında", "segments": ["kapsam", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_old"}
+{"id": "5", "word": "varsada", "segments": ["var", "sa", "da"], "labels": ["COND", "LOC"], "origin": "annotator_agreed"}
+{"id": "6", "word": "bağlamda", "segments": ["bağlam", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "7", "word": "doktorların", "segments": ["doktor", "lar", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "8", "word": "külahlar", "segments": ["külah", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "9", "word": "Ekber", "segments": ["Ekber"], "labels": [], "origin": "annotator_agreed"}
+{"id": "10", "word": "gazete", "segments": ["gazete"], "labels": [], "origin": "annotator_agreed"}
+{"id": "11", "word": "kuruluşundan", "segments": ["kuruluş", "un", "dan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "12", "word": "günlerde", "segments": ["gün", "ler", "de"], "labels": ["PL", "LOC"], "origin": "annotator_agreed"}
+{"id": "13", "word": "politik", "segments": ["politik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "14", "word": "deneyemedim", "segments": ["deney", "e", "me", "dim"], "labels": [], "origin": "annotator_agreed"}
+{"id": "15", "word": "puan", "segments": ["puan"], "labels": [], "origin": "adjudicated_old"}
+{"id": "16", "word": "bana", "segments": ["bana"], "labels": [], "origin": "annotator_agreed"}
+{"id": "17", "word": "sürdürdüğünü", "segments": ["sürdür", "düğ", "ü", "nü"], "labels": ["PTCP", "P3SG", "ACC"], "origin": "adjudicated_old"}
+{"id": "18", "word": "Bobby", "segments": ["Bobby"], "labels": [], "origin": "annotator_agreed"}
+{"id": "19", "word": "olduğundan", "segments": ["ol", "duğ", "u", "ndan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "20", "word": "kimileri", "segments": ["kimi", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "21", "word": "Sanat", "segments": ["Sanat"], "labels": [], "origin": "annotator_agreed"}
+{"id": "22", "word": "bayanı", "segments": ["bayan", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "23", "word": "Konak", "segments": ["Konak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "24", "word": "geçtiğini", "segments": ["geç", "tiğ", "i", "ni"], "labels": ["PTCP", "P3SG", "ACC"], "origin": "adjudicated_old"}
+{"id": "25", "word": "Boğazı", "segments": ["Boğaz", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "26", "word": "görüşlerinizi", "segments": ["görüş", "ler", "iniz", "i"], "labels": ["PL", "P2PL", "ACC"], "origin": "adjudicated_old"}
+{"id": "27", "word": "genişletirken", "segments": ["genişlet", "ir", "ken"], "labels": ["AOR", "CV"], "origin": "annotator_agreed"}
+{"id": "28", "word": "biliniyor", "segments": ["bil", "in", "iyor"], "labels": ["PASS/REFL", "PROG"], "origin": "adjudicated_old"}
+{"id": "29", "word": "Çağlan", "segments": ["Çağlan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "30", "word": "kalite", "segments": ["kalite"], "labels": [], "origin": "annotator_agreed"}
+{"id": "31", "word": "kariyerini", "segments": ["kariyer", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "32", "word": "mümkündür", "segments": ["mümkün", "dür"], "labels": ["COP"], "origin": "annotator_agreed"}
+{"id": "33", "word": "Sarfettiği", "segments": ["Sarfet", "tiğ", "i"], "labels": ["PTCP", "P3SG/ACC"], "origin": "adjudicated_old"}
+{"id": "34", "word": "olmasıyla", "segments": ["olma", "sı", "yla"], "labels": ["P3SG", "INS"], "origin": "annotator_agreed"}
+{"id": "35", "word": "Denetçisi", "segments": ["Denetçi", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "36", "word": "gözlerini", "segments": ["göz", "ler", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "37", "word": "KULLANILMALI", "segments": ["KULLAN", "IL", "MALI"], "labels": ["PASS/REFL", "NEC"], "origin": "adjudicated_old"}
+{"id": "38", "word": "milletin", "segments": ["millet", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "39", "word": "itibari", "segments": ["itibari"], "labels": [], "origin": "annotator_agreed"}
+{"id": "40", "word": "Bunun", "segments": ["Bu", "nun"], "labels": ["GEN"], "origin": "adjudicated_old"}
+{"id": "41", "word": "Üretilen", "segments": ["Üret", "il", "en"], "labels": [], "origin": "annotator_agreed"}
+{"id": "42", "word": "alma", "segments": ["alma"], "labels": [], "origin": "annotator_agreed"}
+{"id": "43", "word": "Yabancı", "segments": ["Yaban", "cı"], "labels": ["AGT"], "origin": "adjudicated_old"}
+{"id": "44", "word": "Ağustos", "segments": ["Ağustos"], "labels": [], "origin": "annotator_agreed"}
+{"id": "45", "word": "Yayılarak", "segments": ["Yayıl", "arak"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "46", "word": "vergisi", "segments": ["vergi", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "47", "word": "motorlu", "segments": ["motor", "lu"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "48", "word": "aşımına", "segments": ["aşım", "ı", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_old"}
+{"id": "49", "word": "bozukluğu", "segments": ["bozukluğ", "u"], "labels": [], "origin": "annotator_agreed"}
+{"id": "50", "word": "değer", "segments": ["değer"], "labels": [], "origin": "adjudicated_old"}
+{"id": "51", "word": "uğramalısınız", "segments": ["uğra", "malı", "sınız"], "labels": [], "origin": "annotator_agreed"}
+{"id": "52", "word": "Monetary", "segments": ["Monetary"], "labels": [], "origin": "annotator_agreed"}
+{"id": "53", "word": "hayır", "segments": ["hayır"], "labels": [], "origin": "adjudicated_old"}
+{"id": "54", "word": "milyar", "segments": ["milyar"], "labels": [], "origin": "adjudicated_old"}
+{"id": "55", "word": "Olimposlular", "segments": ["Olimpos", "lu", "lar"], "labels": ["ADJ", "PL"], "origin": "adjudicated_old"}
+{"id": "56", "word": "araştırılması", "segments": ["araştırılma", "sı"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "57", "word": "gündemi", "segments": ["gündem", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "58", "word": "yıla", "segments": ["yıl", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "59", "word": "finalde", "segments": ["final", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "60", "word": "toplamdan", "segments": ["toplam", "dan"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "61", "word": "gözlere", "segments": ["göz", "ler", "e"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "62", "word": "gerekir", "segments": ["gerek", "ir"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "63", "word": "Azimli", "segments": ["Azim", "li"], "labels": ["ADJ"], "origin": "adjudicated_old"}
+{"id": "64", "word": "İşlemin", "segments": ["İşlem", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "65", "word": "çağdaş", "segments": ["çağdaş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "66", "word": "dolarlık", "segments": ["dolar", "lık"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "67", "word": "bölgelerinde", "segments": ["bölge", "ler", "in", "de"], "labels": [], "origin": "annotator_agreed"}
+{"id": "68", "word": "dostlarının", "segments": ["dost", "lar", "ı", "nın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "69", "word": "gezer", "segments": ["gez", "er"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "70", "word": "sıkı", "segments": ["sıkı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "71", "word": "gerilim", "segments": ["gerilim"], "labels": [], "origin": "annotator_agreed"}
+{"id": "72", "word": "özel", "segments": ["özel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "73", "word": "yuvası", "segments": ["yuva", "sı"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "74", "word": "yerin", "segments": ["yer", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "75", "word": "çekiyor", "segments": ["çek", "iyor"], "labels": ["PROG"], "origin": "annotator_agreed"}
+{"id": "76", "word": "Cumhurbaşkanımızın", "segments": ["Cumhurbaşkan", "ımız", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "77", "word": "dermapen", "segments": ["dermapen"], "labels": [], "origin": "adjudicated_old"}
+{"id": "78", "word": "derim", "segments": ["der", "im"], "labels": ["A1SG/P1SG"], "origin": "adjudicated_old"}
+{"id": "79", "word": "Başlıca", "segments": ["Başlıca"], "labels": [], "origin": "annotator_agreed"}
+{"id": "80", "word": "kıyafetlerde", "segments": ["kıyafet", "ler", "de"], "labels": ["PL", "LOC"], "origin": "annotator_agreed"}
+{"id": "81", "word": "Gurbetçi", "segments": ["Gurbet", "çi"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "82", "word": "Anıtı", "segments": ["Anıt", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "83", "word": "anlattı", "segments": ["anlat", "tı"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "84", "word": "Bizlere", "segments": ["Biz", "ler", "e"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "85", "word": "aldığı", "segments": ["al", "dığ", "ı"], "labels": ["PTCP", "P3SG/ACC"], "origin": "adjudicated_old"}
+{"id": "86", "word": "yakasız", "segments": ["yaka", "sız"], "labels": [], "origin": "annotator_agreed"}
+{"id": "87", "word": "adımlar", "segments": ["adım", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "88", "word": "Yüksek", "segments": ["Yüksek"], "labels": [], "origin": "annotator_agreed"}
+{"id": "89", "word": "almaz", "segments": ["al", "maz"], "labels": ["NEG.AOR"], "origin": "adjudicated_old"}
+{"id": "90", "word": "bireylerin", "segments": ["birey", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "91", "word": "kurufasulyeciydi", "segments": ["kurufasulyeci", "ydi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "92", "word": "Teyyare", "segments": ["Teyyare"], "labels": [], "origin": "annotator_agreed"}
+{"id": "93", "word": "Bornova", "segments": ["Bornova"], "labels": [], "origin": "annotator_agreed"}
+{"id": "94", "word": "unutmayınız", "segments": ["unut", "ma", "yınız"], "labels": ["NEG", "A2PL/IMP"], "origin": "adjudicated_old"}
+{"id": "95", "word": "Mali", "segments": ["Mali"], "labels": [], "origin": "annotator_agreed"}
+{"id": "96", "word": "uymak", "segments": ["uy", "mak"], "labels": ["INF"], "origin": "annotator_agreed"}
+{"id": "97", "word": "küresel", "segments": ["küre", "sel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "98", "word": "demokrat", "segments": ["demokrat"], "labels": [], "origin": "annotator_agreed"}
+{"id": "99", "word": "ordusunun", "segments": ["ordu", "su", "nun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "100", "word": "Başkanımız", "segments": ["Başkan", "ımız"], "labels": ["P1PL"], "origin": "annotator_agreed"}
+{"id": "101", "word": "Arama", "segments": ["Ara", "ma"], "labels": ["VN/NEG"], "origin": "adjudicated_old"}
+{"id": "102", "word": "girişimde", "segments": ["girişim", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "103", "word": "buluşlar", "segments": ["buluş", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "104", "word": "Manolova", "segments": ["Manolova"], "labels": [], "origin": "annotator_agreed"}
+{"id": "105", "word": "eksik", "segments": ["eksik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "106", "word": "bilenlere", "segments": ["bil", "en", "ler", "e"], "labels": ["PTCP", "PL", "DAT"], "origin": "adjudicated_old"}
+{"id": "107", "word": "sorar", "segments": ["sor", "ar"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "108", "word": "filme", "segments": ["film", "e"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "109", "word": "artış", "segments": ["artış"], "labels": [], "origin": "annotator_agreed"}
+{"id": "110", "word": "bakanı", "segments": ["bakan", "ı"], "labels": ["P3SG/ACC"], "origin": "adjudicated_old"}
+{"id": "111", "word": "Julius", "segments": ["Julius"], "labels": [], "origin": "annotator_agreed"}
+{"id": "112", "word": "öğretmenlerimizin", "segments": ["öğretmen", "ler", "imiz", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "113", "word": "tren", "segments": ["tren"], "labels": [], "origin": "adjudicated_old"}
+{"id": "114", "word": "yapmak", "segments": ["yap", "mak"], "labels": ["INF"], "origin": "adjudicated_old"}
+{"id": "115", "word": "aşkla", "segments": ["aşk", "la"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "116", "word": "vergi", "segments": ["vergi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "117", "word": "tuşla", "segments": ["tuş", "la"], "labels": ["UNK"], "origin": "adjudicated_old"}
+{"id": "118", "word": "görüşmesinin", "segments": ["görüş", "me", "si", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "119", "word": "dönümlük", "segments": ["dönüm", "lük"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "120", "word": "velimiz", "segments": ["veli", "miz"], "labels": ["P1PL"], "origin": "annotator_agreed"}
+{"id": "121", "word": "komisyonu", "segments": ["komisyon", "u"], "labels": [], "origin": "annotator_agreed"}
+{"id": "122", "word": "kıyılarında", "segments": ["kıyı", "lar", "ı", "nda"], "labels": ["PL", "P3SG", "LOC"], "origin": "adjudicated_old"}
+{"id": "123", "word": "Müdürlüğü", "segments": ["Müdürlüğ", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "124", "word": "üzerinden", "segments": ["üzer", "i", "nden"], "labels": ["P3SG", "ABL"], "origin": "adjudicated_old"}
+{"id": "125", "word": "Güncelleme", "segments": ["Güncelle", "me"], "labels": ["VN"], "origin": "adjudicated_old"}
+{"id": "126", "word": "Tüneli", "segments": ["Tünel", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "127", "word": "Fethullah", "segments": ["Fethullah"], "labels": [], "origin": "annotator_agreed"}
+{"id": "128", "word": "ırkçılığı", "segments": ["ırk", "çı", "lığ", "ı"], "labels": ["AGT", "NMLZ", "P3SG/ACC"], "origin": "adjudicated_old"}
+{"id": "129", "word": "olduğum", "segments": ["ol", "duğ", "um"], "labels": [], "origin": "annotator_agreed"}
+{"id": "130", "word": "nezdinde", "segments": ["nezd", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_old"}
+{"id": "131", "word": "saatler", "segments": ["saat", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "132", "word": "Beyaz", "segments": ["Beyaz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "133", "word": "ordu", "segments": ["ordu"], "labels": [], "origin": "adjudicated_old"}
+{"id": "134", "word": "katılamazlar", "segments": ["katıl", "a", "ma", "z", "lar"], "labels": ["ABIL", "NEG", "AOR", "A3PL"], "origin": "adjudicated_old"}
+{"id": "135", "word": "nostaljik", "segments": ["nostaljik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "136", "word": "ışık", "segments": ["ışık"], "labels": [], "origin": "annotator_agreed"}
+{"id": "137", "word": "kademenin", "segments": ["kademe", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "138", "word": "güvenebilir", "segments": ["güven", "ebil", "ir"], "labels": ["ABIL", "AOR"], "origin": "annotator_agreed"}
+{"id": "139", "word": "detaylı", "segments": ["detay", "lı"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "140", "word": "yükselmekte", "segments": ["yüksel", "mekte"], "labels": ["PROG"], "origin": "adjudicated_old"}
+{"id": "141", "word": "görmüş", "segments": ["gör", "müş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "142", "word": "altın", "segments": ["altın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "143", "word": "sizlerde", "segments": ["siz", "ler", "de"], "labels": ["PL", "LOC"], "origin": "annotator_agreed"}
+{"id": "144", "word": "güçlü", "segments": ["güç", "lü"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "145", "word": "Eğitimleri", "segments": ["Eğitim", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "146", "word": "Çocukları", "segments": ["Çocuk", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "147", "word": "mağduriyeti", "segments": ["mağduriyet", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "148", "word": "adapte", "segments": ["adapte"], "labels": [], "origin": "annotator_agreed"}
+{"id": "149", "word": "etmektedir", "segments": ["et", "mekte", "dir"], "labels": ["PROG", "COP"], "origin": "annotator_agreed"}
+{"id": "150", "word": "üzerine", "segments": ["üzer", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_old"}
+{"id": "151", "word": "sadece", "segments": ["sadece"], "labels": [], "origin": "annotator_agreed"}
+{"id": "152", "word": "oluşturur", "segments": ["oluştur", "ur"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "153", "word": "Üniversitesi", "segments": ["Üniversite", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "154", "word": "seçenekler", "segments": ["seçenek", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "155", "word": "yaklaşmasının", "segments": ["yaklaş", "ma", "sı", "nın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "156", "word": "türünde", "segments": ["tür", "ü", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_old"}
+{"id": "157", "word": "sektörünün", "segments": ["sektör", "ü", "nün"], "labels": [], "origin": "annotator_agreed"}
+{"id": "158", "word": "onların", "segments": ["on", "lar", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "159", "word": "Veli", "segments": ["Veli"], "labels": [], "origin": "annotator_agreed"}
+{"id": "160", "word": "bölgede", "segments": ["bölge", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "161", "word": "bölgeye", "segments": ["bölge", "ye"], "labels": ["DAT"], "origin": "adjudicated_old"}
+{"id": "162", "word": "Moğol", "segments": ["Moğol"], "labels": [], "origin": "annotator_agreed"}
+{"id": "163", "word": "sunuldu", "segments": ["sunul", "du"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "164", "word": "Katılım", "segments": ["Katılım"], "labels": [], "origin": "annotator_agreed"}
+{"id": "165", "word": "sağlayan", "segments": ["sağla", "yan"], "labels": ["PTCP"], "origin": "annotator_agreed"}
+{"id": "166", "word": "Şermin", "segments": ["Şermin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "167", "word": "bitti", "segments": ["bit", "ti"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "168", "word": "benimle", "segments": ["ben", "im", "le"], "labels": [], "origin": "annotator_agreed"}
+{"id": "169", "word": "Sorunlarına", "segments": ["Sorun", "lar", "ı", "na"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_old"}
+{"id": "170", "word": "ettirir", "segments": ["et", "tir", "ir"], "labels": ["CAUS", "AOR"], "origin": "adjudicated_old"}
+{"id": "171", "word": "Kılacağız", "segments": ["Kıl", "acağ", "ız"], "labels": [], "origin": "annotator_agreed"}
+{"id": "172", "word": "listemiz", "segments": ["liste", "miz"], "labels": ["P1PL"], "origin": "annotator_agreed"}
+{"id": "173", "word": "tersine", "segments": ["ters", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_old"}
+{"id": "174", "word": "edilmektedir", "segments": ["edil", "mekte", "dir"], "labels": ["PROG", "COP"], "origin": "annotator_agreed"}
+{"id": "175", "word": "Dernek", "segments": ["Dernek"], "labels": [], "origin": "annotator_agreed"}
+{"id": "176", "word": "eğitimler", "segments": ["eğitim", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "177", "word": "Geçmişten", "segments": ["Geçmiş", "ten"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "178", "word": "sertifikasına", "segments": ["sertifika", "sı", "na"], "labels": ["P3SG", "DAT"], "origin": "annotator_agreed"}
+{"id": "179", "word": "Dünyadaki", "segments": ["Dünya", "da", "ki"], "labels": ["LOC", "REL"], "origin": "annotator_agreed"}
+{"id": "180", "word": "başladığında", "segments": ["başla", "dığ", "ı", "nda"], "labels": [], "origin": "annotator_agreed"}
+{"id": "181", "word": "şirketinin", "segments": ["şirket", "i", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "182", "word": "Dörtlüleri", "segments": ["Dörtlü", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "183", "word": "Sonuçlara", "segments": ["Sonuç", "lar", "a"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "184", "word": "LEKESİ", "segments": ["LEKESİ"], "labels": [], "origin": "annotator_agreed"}
+{"id": "185", "word": "Kartalı", "segments": ["Kartal", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "186", "word": "kıyısında", "segments": ["kıyı", "sı", "nda"], "labels": [], "origin": "annotator_agreed"}
+{"id": "187", "word": "kuruması", "segments": ["kuru", "ma", "sı"], "labels": ["VN", "P3SG"], "origin": "adjudicated_old"}
+{"id": "188", "word": "gösteriyor", "segments": ["göster", "iyor"], "labels": ["PROG"], "origin": "annotator_agreed"}
+{"id": "189", "word": "sizleri", "segments": ["siz", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "190", "word": "taktiği", "segments": ["taktiğ", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "191", "word": "gemisi", "segments": ["gemi", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "192", "word": "metre", "segments": ["metre"], "labels": [], "origin": "annotator_agreed"}
+{"id": "193", "word": "vermişti", "segments": ["ver", "miş", "ti"], "labels": [], "origin": "annotator_agreed"}
+{"id": "194", "word": "bağıran", "segments": ["bağır", "an"], "labels": ["PTCP"], "origin": "annotator_agreed"}
+{"id": "195", "word": "buluşmalarını", "segments": ["buluşma", "lar", "ı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "196", "word": "bırakılan", "segments": ["bırak", "ıl", "an"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_old"}
+{"id": "197", "word": "derslerimiz", "segments": ["ders", "ler", "imiz"], "labels": ["PL", "P1PL"], "origin": "annotator_agreed"}
+{"id": "198", "word": "çıkarabilirsiniz", "segments": ["çıkar", "abil", "ir", "siniz"], "labels": ["ABIL", "AOR", "A2PL"], "origin": "adjudicated_old"}
+{"id": "199", "word": "Model", "segments": ["Model"], "labels": [], "origin": "annotator_agreed"}
+{"id": "200", "word": "ekipmanlar", "segments": ["ekipman", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "201", "word": "otel", "segments": ["otel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "202", "word": "almıştır", "segments": ["al", "mış", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "203", "word": "izleyebilir", "segments": ["izle", "yebil", "ir"], "labels": ["ABIL", "AOR"], "origin": "adjudicated_old"}
+{"id": "204", "word": "bildiriler", "segments": ["bildiri", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "205", "word": "Gaziemir", "segments": ["Gaziemir"], "labels": [], "origin": "annotator_agreed"}
+{"id": "206", "word": "yatırımın", "segments": ["yatırım", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "207", "word": "Ekim", "segments": ["Ekim"], "labels": [], "origin": "annotator_agreed"}
+{"id": "208", "word": "Tekbir", "segments": ["Tekbir"], "labels": [], "origin": "annotator_agreed"}
+{"id": "209", "word": "ödendi", "segments": ["öden", "di"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "210", "word": "halinde", "segments": ["hal", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_old"}
+{"id": "211", "word": "Kararlı", "segments": ["Karar", "lı"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "212", "word": "istenerek", "segments": ["isten", "erek"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "213", "word": "milyon", "segments": ["milyon"], "labels": [], "origin": "annotator_agreed"}
+{"id": "214", "word": "demir", "segments": ["demir"], "labels": [], "origin": "adjudicated_old"}
+{"id": "215", "word": "edeceğim", "segments": ["ed", "eceğ", "im"], "labels": [], "origin": "annotator_agreed"}
+{"id": "216", "word": "Soruların", "segments": ["Soru", "lar", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "217", "word": "Lisesi", "segments": ["Lise", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "218", "word": "öğrencilerden", "segments": ["öğrenci", "ler", "den"], "labels": ["PL", "ABL"], "origin": "annotator_agreed"}
+{"id": "219", "word": "muhteşem", "segments": ["muhteşem"], "labels": [], "origin": "annotator_agreed"}
+{"id": "220", "word": "geçirilmesiyle", "segments": ["geçirilme", "si", "yle"], "labels": ["P3SG", "INS"], "origin": "annotator_agreed"}
+{"id": "221", "word": "başladı", "segments": ["başla", "dı"], "labels": ["PAST"], "origin": "adjudicated_old"}
+{"id": "222", "word": "unvanı", "segments": ["unvan", "ı"], "labels": ["P3SG/ACC"], "origin": "adjudicated_old"}
+{"id": "223", "word": "Ürünlerini", "segments": ["Ürün", "ler", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "224", "word": "AAOIFI", "segments": ["AAOIFI"], "labels": [], "origin": "annotator_agreed"}
+{"id": "225", "word": "olmalıdır", "segments": ["ol", "malı", "dır"], "labels": ["NEC", "COP"], "origin": "annotator_agreed"}
+{"id": "226", "word": "tarzını", "segments": ["tarz", "ı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "227", "word": "Uygulamayı", "segments": ["Uygulama", "yı"], "labels": ["ACC"], "origin": "annotator_agreed"}
+{"id": "228", "word": "ilgilenmeyince", "segments": ["ilgilen", "me", "yince"], "labels": ["NEG", "CV"], "origin": "adjudicated_new"}
+{"id": "229", "word": "yurt", "segments": ["yurt"], "labels": [], "origin": "annotator_agreed"}
+{"id": "230", "word": "açarlar", "segments": ["aç", "ar", "lar"], "labels": ["AOR", "A3PL"], "origin": "adjudicated_new"}
+{"id": "231", "word": "karanlığa", "segments": ["karanlığ", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "232", "word": "Restaurant", "segments": ["Restaurant"], "labels": [], "origin": "annotator_agreed"}
+{"id": "233", "word": "Boru", "segments": ["Boru"], "labels": [], "origin": "annotator_agreed"}
+{"id": "234", "word": "aşağıdaki", "segments": ["aşağı", "da", "ki"], "labels": ["LOC", "REL"], "origin": "annotator_agreed"}
+{"id": "235", "word": "armasıydı", "segments": ["arma", "sı", "ydı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "236", "word": "vaktiniz", "segments": ["vakt", "iniz"], "labels": ["P2PL"], "origin": "annotator_agreed"}
+{"id": "237", "word": "beklemeyin", "segments": ["bekle", "me", "yin"], "labels": ["NEG", "A2PL/IMP"], "origin": "adjudicated_new"}
+{"id": "238", "word": "başka", "segments": ["başka"], "labels": [], "origin": "annotator_agreed"}
+{"id": "239", "word": "kırtasiyeden", "segments": ["kırtasiye", "den"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "240", "word": "anlaşarak", "segments": ["anlaş", "arak"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "241", "word": "ÇABUK", "segments": ["ÇABUK"], "labels": [], "origin": "annotator_agreed"}
+{"id": "242", "word": "düzelmesi", "segments": ["düzel", "me", "si"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "243", "word": "vermesi", "segments": ["ver", "me", "si"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "244", "word": "karanlık", "segments": ["karan", "lık"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "245", "word": "HAYIR", "segments": ["HAYIR"], "labels": [], "origin": "annotator_agreed"}
+{"id": "246", "word": "filmi", "segments": ["film", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "247", "word": "Örgütü", "segments": ["Örgüt", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "248", "word": "Semaha", "segments": ["Semah", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "249", "word": "Bakanlığı", "segments": ["Bakanlığ", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "250", "word": "lise", "segments": ["lise"], "labels": [], "origin": "annotator_agreed"}
+{"id": "251", "word": "kulak", "segments": ["kulak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "252", "word": "toplanarak", "segments": ["toplan", "arak"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "253", "word": "piyasa", "segments": ["piyasa"], "labels": [], "origin": "annotator_agreed"}
+{"id": "254", "word": "adresi", "segments": ["adres", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "255", "word": "yaralı", "segments": ["yara", "lı"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "256", "word": "konuda", "segments": ["konu", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "257", "word": "çıkarılmamış", "segments": ["çıkar", "ıl", "ma", "mış"], "labels": ["PASS/REFL", "NEG", "EVID/PTCP"], "origin": "adjudicated_new"}
+{"id": "258", "word": "programlarına", "segments": ["program", "lar", "ın", "a"], "labels": [], "origin": "annotator_agreed"}
+{"id": "259", "word": "hesap", "segments": ["hesap"], "labels": [], "origin": "annotator_agreed"}
+{"id": "260", "word": "Kyle", "segments": ["Kyle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "261", "word": "geçtiğimiz", "segments": ["geç", "tiğ", "imiz"], "labels": ["PTCP", "P1PL"], "origin": "adjudicated_new"}
+{"id": "262", "word": "beğenen", "segments": ["beğen", "en"], "labels": ["PTCP"], "origin": "annotator_agreed"}
+{"id": "263", "word": "yöntemlerden", "segments": ["yöntem", "ler", "den"], "labels": ["PL", "ABL"], "origin": "annotator_agreed"}
+{"id": "264", "word": "askerlerin", "segments": ["asker", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "265", "word": "birlikte", "segments": ["birlikte"], "labels": [], "origin": "annotator_agreed"}
+{"id": "266", "word": "bilgilendirilir", "segments": ["bilgilendiril", "ir"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "267", "word": "Roma", "segments": ["Roma"], "labels": [], "origin": "annotator_agreed"}
+{"id": "268", "word": "hafif", "segments": ["hafif"], "labels": [], "origin": "annotator_agreed"}
+{"id": "269", "word": "dağıtılan", "segments": ["dağıt", "ıl", "an"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_new"}
+{"id": "270", "word": "Keban", "segments": ["Keban"], "labels": [], "origin": "annotator_agreed"}
+{"id": "271", "word": "geri", "segments": ["geri"], "labels": [], "origin": "annotator_agreed"}
+{"id": "272", "word": "hedefi", "segments": ["hedef", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "273", "word": "gençleştirme", "segments": ["genç", "leş", "tir", "me"], "labels": ["UNK", "CAUS", "VN"], "origin": "adjudicated_new"}
+{"id": "274", "word": "olacağımdan", "segments": ["ol", "acağ", "ım", "dan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "275", "word": "dijitalin", "segments": ["dijital", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "276", "word": "istedi", "segments": ["iste", "di"], "labels": ["PAST"], "origin": "adjudicated_new"}
+{"id": "277", "word": "alanları", "segments": ["alan", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "278", "word": "programına", "segments": ["program", "ı", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "279", "word": "bırakan", "segments": ["bırak", "an"], "labels": ["PTCP"], "origin": "annotator_agreed"}
+{"id": "280", "word": "alınmazsa", "segments": ["alın", "maz", "sa"], "labels": ["NEG.AOR", "COND"], "origin": "annotator_agreed"}
+{"id": "281", "word": "belirten", "segments": ["belirt", "en"], "labels": ["PTCP"], "origin": "annotator_agreed"}
+{"id": "282", "word": "güneş", "segments": ["güneş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "283", "word": "tekrarı", "segments": ["tekrar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "284", "word": "geçirilecektir", "segments": ["geçiril", "ecek", "tir"], "labels": [], "origin": "annotator_agreed"}
+{"id": "285", "word": "milletvekilleri", "segments": ["milletvekil", "ler", "i"], "labels": ["PL", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "286", "word": "Jehanne", "segments": ["Jehanne"], "labels": [], "origin": "annotator_agreed"}
+{"id": "287", "word": "AdEx", "segments": ["AdEx"], "labels": [], "origin": "annotator_agreed"}
+{"id": "288", "word": "inanın", "segments": ["inan", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "289", "word": "oturmayı", "segments": ["otur", "ma", "yı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "290", "word": "Baraj", "segments": ["Baraj"], "labels": [], "origin": "annotator_agreed"}
+{"id": "291", "word": "Menfaat", "segments": ["Menfaat"], "labels": [], "origin": "annotator_agreed"}
+{"id": "292", "word": "dekovil", "segments": ["dekovil"], "labels": [], "origin": "annotator_agreed"}
+{"id": "293", "word": "halde", "segments": ["hal", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "294", "word": "zayi", "segments": ["zayi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "295", "word": "Sınav", "segments": ["Sınav"], "labels": [], "origin": "annotator_agreed"}
+{"id": "296", "word": "yönelik", "segments": ["yöne", "lik"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "297", "word": "sözleşmeye", "segments": ["sözleş", "me", "ye"], "labels": ["VN", "DAT"], "origin": "adjudicated_new"}
+{"id": "298", "word": "okulumuza", "segments": ["okul", "umuz", "a"], "labels": ["P1PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "299", "word": "temel", "segments": ["temel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "300", "word": "GERÇEKLEŞTİRDİK", "segments": ["GERÇEK", "LEŞ", "TİR", "Dİ", "K"], "labels": ["UNK", "CAUS", "PAST", "A1PL"], "origin": "adjudicated_new"}
+{"id": "301", "word": "ediyor", "segments": ["ed", "iyor"], "labels": ["PROG"], "origin": "annotator_agreed"}
+{"id": "302", "word": "İmparatorluk", "segments": ["İmparator", "luk"], "labels": ["NMLZ"], "origin": "adjudicated_new"}
+{"id": "303", "word": "duyuruldu", "segments": ["duyurul", "du"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "304", "word": "arzusu", "segments": ["arzu", "su"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "305", "word": "cıkartır", "segments": ["cıkart", "ır"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "306", "word": "irtibata", "segments": ["irtibat", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "307", "word": "öndeyken", "segments": ["ön", "de", "yken"], "labels": ["LOC", "CV"], "origin": "adjudicated_new"}
+{"id": "308", "word": "ücretsiz", "segments": ["ücret", "siz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "309", "word": "Güreş", "segments": ["Güreş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "310", "word": "başlıkları", "segments": ["başlık", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "311", "word": "temsilcileri", "segments": ["temsilci", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "312", "word": "verilmiş", "segments": ["veril", "miş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "313", "word": "etmiyor", "segments": ["et", "mi", "yor"], "labels": [], "origin": "annotator_agreed"}
+{"id": "314", "word": "amacı", "segments": ["amac", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "315", "word": "eğilimleri", "segments": ["eğilim", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "316", "word": "olmuş", "segments": ["ol", "muş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "317", "word": "veriyorum", "segments": ["ver", "iyor", "um"], "labels": ["PROG", "A1SG"], "origin": "adjudicated_new"}
+{"id": "318", "word": "Mahmut", "segments": ["Mahmut"], "labels": [], "origin": "annotator_agreed"}
+{"id": "319", "word": "Değerlendirme", "segments": ["Değerlendirme"], "labels": [], "origin": "annotator_agreed"}
+{"id": "320", "word": "ciltteki", "segments": ["cilt", "te", "ki"], "labels": ["LOC", "REL"], "origin": "annotator_agreed"}
+{"id": "321", "word": "Edirne", "segments": ["Edirne"], "labels": [], "origin": "annotator_agreed"}
+{"id": "322", "word": "belirtilerinin", "segments": ["belirti", "ler", "i", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "323", "word": "olumsuz", "segments": ["olum", "suz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "324", "word": "için", "segments": ["için"], "labels": [], "origin": "annotator_agreed"}
+{"id": "325", "word": "Güler", "segments": ["Güler"], "labels": [], "origin": "adjudicated_new"}
+{"id": "326", "word": "sistemi", "segments": ["sistem", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "327", "word": "aydın", "segments": ["aydın"], "labels": [], "origin": "adjudicated_new"}
+{"id": "328", "word": "biçimde", "segments": ["biçim", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "329", "word": "açıklaması", "segments": ["açıkla", "ma", "sı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "330", "word": "yerinde", "segments": ["yer", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "331", "word": "Yardımcı", "segments": ["Yardım", "cı"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "332", "word": "Kelimeler", "segments": ["Kelime", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "333", "word": "canice", "segments": ["canice"], "labels": [], "origin": "annotator_agreed"}
+{"id": "334", "word": "Elimden", "segments": ["El", "im", "den"], "labels": [], "origin": "annotator_agreed"}
+{"id": "335", "word": "Asya", "segments": ["Asya"], "labels": [], "origin": "annotator_agreed"}
+{"id": "336", "word": "ışıltı", "segments": ["ışıltı"], "labels": [], "origin": "adjudicated_new"}
+{"id": "337", "word": "yakılmıştır", "segments": ["yak", "ıl", "mış", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "338", "word": "şirket", "segments": ["şirket"], "labels": [], "origin": "annotator_agreed"}
+{"id": "339", "word": "özellikle", "segments": ["özellikle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "340", "word": "görülmez", "segments": ["görül", "mez"], "labels": ["NEG.AOR"], "origin": "annotator_agreed"}
+{"id": "341", "word": "fokuslu", "segments": ["fokus", "lu"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "342", "word": "belirlenecek", "segments": ["belirlen", "ecek"], "labels": [], "origin": "annotator_agreed"}
+{"id": "343", "word": "sıklıkla", "segments": ["sıklıkla"], "labels": [], "origin": "annotator_agreed"}
+{"id": "344", "word": "oyunu", "segments": ["oyun", "u"], "labels": ["P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "345", "word": "derli", "segments": ["der", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "346", "word": "ishal", "segments": ["ishal"], "labels": [], "origin": "annotator_agreed"}
+{"id": "347", "word": "Aşık", "segments": ["Aşık"], "labels": [], "origin": "annotator_agreed"}
+{"id": "348", "word": "düşünceleri", "segments": ["düşünce", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "349", "word": "istekleri", "segments": ["istek", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "350", "word": "kurulmasını", "segments": ["kurul", "ma", "sı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "351", "word": "temenni", "segments": ["temenni"], "labels": [], "origin": "adjudicated_new"}
+{"id": "352", "word": "Kardeşiniz", "segments": ["Kardeş", "iniz"], "labels": ["P2PL"], "origin": "adjudicated_new"}
+{"id": "353", "word": "bitirir", "segments": ["bitir", "ir"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "354", "word": "beyne", "segments": ["beyn", "e"], "labels": ["DAT"], "origin": "adjudicated_new"}
+{"id": "355", "word": "dikkatsiz", "segments": ["dikkat", "siz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "356", "word": "ayrıca", "segments": ["ayrıca"], "labels": [], "origin": "annotator_agreed"}
+{"id": "357", "word": "aittir", "segments": ["ait", "tir"], "labels": ["COP"], "origin": "annotator_agreed"}
+{"id": "358", "word": "tarafında", "segments": ["taraf", "ın", "da"], "labels": [], "origin": "annotator_agreed"}
+{"id": "359", "word": "hayata", "segments": ["hayat", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "360", "word": "Bakan", "segments": ["Bakan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "361", "word": "Timberlake", "segments": ["Timberlake"], "labels": [], "origin": "annotator_agreed"}
+{"id": "362", "word": "açıklandı", "segments": ["açıklan", "dı"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "363", "word": "Listed", "segments": ["Listed"], "labels": [], "origin": "annotator_agreed"}
+{"id": "364", "word": "ederim", "segments": ["ed", "er", "im"], "labels": ["AOR", "A1SG"], "origin": "adjudicated_new"}
+{"id": "365", "word": "kalmış", "segments": ["kal", "mış"], "labels": [], "origin": "annotator_agreed"}
+{"id": "366", "word": "alerjik", "segments": ["alerjik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "367", "word": "ortaya", "segments": ["orta", "ya"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "368", "word": "Pazar", "segments": ["Pazar"], "labels": [], "origin": "annotator_agreed"}
+{"id": "369", "word": "derece", "segments": ["derece"], "labels": [], "origin": "annotator_agreed"}
+{"id": "370", "word": "büyümeyi", "segments": ["büyü", "me", "yi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "371", "word": "hatırlatarak", "segments": ["hatırlat", "arak"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "372", "word": "kontrolsüz", "segments": ["kontrol", "süz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "373", "word": "Anlayışla", "segments": ["Anlayış", "la"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "374", "word": "Babam", "segments": ["Baba", "m"], "labels": ["P1SG"], "origin": "adjudicated_new"}
+{"id": "375", "word": "gümüş", "segments": ["gümüş"], "labels": [], "origin": "adjudicated_new"}
+{"id": "376", "word": "mevsiminde", "segments": ["mevsim", "in", "de"], "labels": [], "origin": "annotator_agreed"}
+{"id": "377", "word": "raporlarının", "segments": ["rapor", "lar", "ı", "nın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "378", "word": "tekrar", "segments": ["tekrar"], "labels": [], "origin": "adjudicated_new"}
+{"id": "379", "word": "Eylül", "segments": ["Eylül"], "labels": [], "origin": "annotator_agreed"}
+{"id": "380", "word": "itibaren", "segments": ["itibaren"], "labels": [], "origin": "adjudicated_new"}
+{"id": "381", "word": "yaşarken", "segments": ["yaşa", "r", "ken"], "labels": ["AOR", "CV"], "origin": "adjudicated_new"}
+{"id": "382", "word": "Adayı", "segments": ["Aday", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "383", "word": "önce", "segments": ["önce"], "labels": [], "origin": "annotator_agreed"}
+{"id": "384", "word": "Tarım", "segments": ["Tarım"], "labels": [], "origin": "annotator_agreed"}
+{"id": "385", "word": "Müdür", "segments": ["Müdür"], "labels": [], "origin": "annotator_agreed"}
+{"id": "386", "word": "fıtığı", "segments": ["fıtığ", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "387", "word": "Akçaabat", "segments": ["Akçaabat"], "labels": [], "origin": "annotator_agreed"}
+{"id": "388", "word": "hasta", "segments": ["hasta"], "labels": [], "origin": "annotator_agreed"}
+{"id": "389", "word": "çıktıCemaatSarfettiği", "segments": ["çıktıCemaatSarfettiği"], "labels": [], "origin": "annotator_agreed"}
+{"id": "390", "word": "Denizcilik", "segments": ["Deniz", "ci", "lik"], "labels": ["AGT", "NMLZ"], "origin": "adjudicated_new"}
+{"id": "391", "word": "Elazığ", "segments": ["Elazığ"], "labels": [], "origin": "annotator_agreed"}
+{"id": "392", "word": "tedavisinin", "segments": ["tedavi", "si", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "393", "word": "edilmiştir", "segments": ["edil", "miş", "tir"], "labels": [], "origin": "annotator_agreed"}
+{"id": "394", "word": "düşüşte", "segments": ["düşüş", "te"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "395", "word": "muhasebe", "segments": ["muhasebe"], "labels": [], "origin": "annotator_agreed"}
+{"id": "396", "word": "asit", "segments": ["asit"], "labels": [], "origin": "annotator_agreed"}
+{"id": "397", "word": "güçlere", "segments": ["güç", "ler", "e"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "398", "word": "Bilgisayar", "segments": ["Bilgisayar"], "labels": [], "origin": "annotator_agreed"}
+{"id": "399", "word": "kullanılan", "segments": ["kullan", "ıl", "an"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_new"}
+{"id": "400", "word": "sonrası", "segments": ["sonra", "sı"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "401", "word": "ağacı", "segments": ["ağac", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "402", "word": "geçmişte", "segments": ["geçmiş", "te"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "403", "word": "sevgi", "segments": ["sevgi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "404", "word": "yobazlar", "segments": ["yobaz", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "405", "word": "tüketilir", "segments": ["tüketil", "ir"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "406", "word": "Aziz", "segments": ["Aziz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "407", "word": "tatmin", "segments": ["tatmin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "408", "word": "geçerek", "segments": ["geç", "erek"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "409", "word": "ötelemesi", "segments": ["öte", "le", "me", "si"], "labels": ["UNK", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "410", "word": "oldum", "segments": ["ol", "dum"], "labels": [], "origin": "annotator_agreed"}
+{"id": "411", "word": "etkisi", "segments": ["etki", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "412", "word": "dondurmacı", "segments": ["dondurma", "cı"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "413", "word": "adlandırılan", "segments": ["adlandır", "ıl", "an"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_new"}
+{"id": "414", "word": "askerlerinin", "segments": ["asker", "ler", "i", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "415", "word": "görüşmelerimizi", "segments": ["görüşme", "ler", "imiz", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "416", "word": "Anıt", "segments": ["Anıt"], "labels": [], "origin": "annotator_agreed"}
+{"id": "417", "word": "yapılır", "segments": ["yapıl", "ır"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "418", "word": "Romanya", "segments": ["Romanya"], "labels": [], "origin": "adjudicated_new"}
+{"id": "419", "word": "Sulama", "segments": ["Sulama"], "labels": [], "origin": "annotator_agreed"}
+{"id": "420", "word": "Kral", "segments": ["Kral"], "labels": [], "origin": "annotator_agreed"}
+{"id": "421", "word": "çalıştığı", "segments": ["çalış", "tığ", "ı"], "labels": ["PTCP", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "422", "word": "Kanun", "segments": ["Kanun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "423", "word": "sağlayacağı", "segments": ["sağla", "yacağ", "ı"], "labels": ["FUT.PTCP", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "424", "word": "başarılı", "segments": ["başarı", "lı"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "425", "word": "Merter", "segments": ["Merter"], "labels": [], "origin": "annotator_agreed"}
+{"id": "426", "word": "sakın", "segments": ["sakın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "427", "word": "ötürü", "segments": ["ötürü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "428", "word": "liradan", "segments": ["lira", "dan"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "429", "word": "yılına", "segments": ["yıl", "ı", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "430", "word": "sıra", "segments": ["sıra"], "labels": [], "origin": "annotator_agreed"}
+{"id": "431", "word": "kalmamıştır", "segments": ["kal", "ma", "mış", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "432", "word": "dolu", "segments": ["dolu"], "labels": [], "origin": "annotator_agreed"}
+{"id": "433", "word": "olabilirsiniz", "segments": ["ol", "abil", "ir", "siniz"], "labels": ["ABIL", "AOR", "A2PL"], "origin": "adjudicated_new"}
+{"id": "434", "word": "desteği", "segments": ["desteğ", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "435", "word": "Niyet", "segments": ["Niyet"], "labels": [], "origin": "annotator_agreed"}
+{"id": "436", "word": "kamp", "segments": ["kamp"], "labels": [], "origin": "annotator_agreed"}
+{"id": "437", "word": "çalışmalarına", "segments": ["çalış", "ma", "lar", "ı", "na"], "labels": ["VN", "PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "438", "word": "meşgul", "segments": ["meşgul"], "labels": [], "origin": "annotator_agreed"}
+{"id": "439", "word": "adlandırması", "segments": ["adlandırma", "sı"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "440", "word": "raporu", "segments": ["rapor", "u"], "labels": [], "origin": "annotator_agreed"}
+{"id": "441", "word": "gruplar", "segments": ["grup", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "442", "word": "yaşına", "segments": ["yaş", "ı", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "443", "word": "paslaştıktan", "segments": ["paslaş", "tık", "tan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "444", "word": "Avrupa", "segments": ["Avrupa"], "labels": [], "origin": "annotator_agreed"}
+{"id": "445", "word": "randevu", "segments": ["randevu"], "labels": [], "origin": "annotator_agreed"}
+{"id": "446", "word": "para", "segments": ["para"], "labels": [], "origin": "annotator_agreed"}
+{"id": "447", "word": "inançsal", "segments": ["inanç", "sal"], "labels": [], "origin": "annotator_agreed"}
+{"id": "448", "word": "dekolte", "segments": ["dekolte"], "labels": [], "origin": "annotator_agreed"}
+{"id": "449", "word": "geçmişin", "segments": ["geçmiş", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "450", "word": "diledikleri", "segments": ["dile", "dik", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "451", "word": "başlanmıştır", "segments": ["başlan", "mış", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "452", "word": "hazzını", "segments": ["hazz", "ı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "453", "word": "dakikada", "segments": ["dakika", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "454", "word": "dram", "segments": ["dram"], "labels": [], "origin": "annotator_agreed"}
+{"id": "455", "word": "sebebiyet", "segments": ["sebebiyet"], "labels": [], "origin": "annotator_agreed"}
+{"id": "456", "word": "filmdi", "segments": ["film", "di"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "457", "word": "Antosiyanidinlerin", "segments": ["Antosiyanidin", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "458", "word": "kalan", "segments": ["kal", "an"], "labels": ["PTCP"], "origin": "adjudicated_new"}
+{"id": "459", "word": "niteliğindedir", "segments": ["niteliğ", "i", "nde", "dir"], "labels": ["P3SG", "LOC", "COP"], "origin": "adjudicated_new"}
+{"id": "460", "word": "Yaratandan", "segments": ["Yaratan", "dan"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "461", "word": "dönülebilir", "segments": ["dön", "ül", "ebil", "ir"], "labels": ["PASS/REFL", "ABIL", "AOR"], "origin": "adjudicated_new"}
+{"id": "462", "word": "Nesin", "segments": ["Nesin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "463", "word": "yatırdığını", "segments": ["yatır", "dığ", "ı", "nı"], "labels": ["PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "464", "word": "araştırma", "segments": ["araştırma"], "labels": [], "origin": "annotator_agreed"}
+{"id": "465", "word": "dile", "segments": ["dile"], "labels": [], "origin": "annotator_agreed"}
+{"id": "466", "word": "biri", "segments": ["biri"], "labels": [], "origin": "annotator_agreed"}
+{"id": "467", "word": "ediyorsunuz", "segments": ["ed", "iyor", "sunuz"], "labels": ["PROG", "A2PL"], "origin": "adjudicated_new"}
+{"id": "468", "word": "adanın", "segments": ["ada", "nın"], "labels": ["GEN"], "origin": "adjudicated_new"}
+{"id": "469", "word": "gözün", "segments": ["göz", "ün"], "labels": [], "origin": "annotator_agreed"}
+{"id": "470", "word": "Genel", "segments": ["Genel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "471", "word": "mezar", "segments": ["mezar"], "labels": [], "origin": "adjudicated_new"}
+{"id": "472", "word": "kılcal", "segments": ["kılcal"], "labels": [], "origin": "annotator_agreed"}
+{"id": "473", "word": "oranı", "segments": ["oran", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "474", "word": "çalıştı", "segments": ["çalış", "tı"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "475", "word": "ofisinde", "segments": ["ofis", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "476", "word": "Listas", "segments": ["Listas"], "labels": [], "origin": "annotator_agreed"}
+{"id": "477", "word": "geçersiz", "segments": ["geçer", "siz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "478", "word": "görme", "segments": ["görme"], "labels": [], "origin": "annotator_agreed"}
+{"id": "479", "word": "kademeli", "segments": ["kademe", "li"], "labels": ["ADJ"], "origin": "adjudicated_new"}
+{"id": "480", "word": "değerlerdeki", "segments": ["değer", "ler", "de", "ki"], "labels": ["PL", "LOC", "REL"], "origin": "annotator_agreed"}
+{"id": "481", "word": "adamlar", "segments": ["adam", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "482", "word": "burada", "segments": ["burada"], "labels": [], "origin": "annotator_agreed"}
+{"id": "483", "word": "Kimya", "segments": ["Kimya"], "labels": [], "origin": "annotator_agreed"}
+{"id": "484", "word": "oluşunun", "segments": ["oluş", "u", "nun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "485", "word": "ölçekte", "segments": ["ölçek", "te"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "486", "word": "belirterek", "segments": ["belirt", "erek"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "487", "word": "ekibini", "segments": ["ekib", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "488", "word": "Rüzgarla", "segments": ["Rüzgar", "la"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "489", "word": "genellikle", "segments": ["genellikle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "490", "word": "Alatin", "segments": ["Alatin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "491", "word": "Foursquare", "segments": ["Foursquare"], "labels": [], "origin": "annotator_agreed"}
+{"id": "492", "word": "Randle", "segments": ["Randle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "493", "word": "Rabbim", "segments": ["Rabb", "im"], "labels": [], "origin": "annotator_agreed"}
+{"id": "494", "word": "sıkılığında", "segments": ["sıkı", "lığ", "ı", "nda"], "labels": ["NMLZ", "P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "495", "word": "nedenle", "segments": ["neden", "le"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "496", "word": "ölçümleri", "segments": ["ölçüm", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "497", "word": "karşı", "segments": ["karşı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "498", "word": "fırça", "segments": ["fırça"], "labels": [], "origin": "annotator_agreed"}
+{"id": "499", "word": "gerekçe", "segments": ["gerekçe"], "labels": [], "origin": "annotator_agreed"}
+{"id": "500", "word": "toplumcu", "segments": ["toplum", "cu"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "501", "word": "kuruldu", "segments": ["kurul", "du"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "502", "word": "velilerimiz", "segments": ["veli", "ler", "imiz"], "labels": ["PL", "P1PL"], "origin": "annotator_agreed"}
+{"id": "503", "word": "önceden", "segments": ["önce", "den"], "labels": ["ABL"], "origin": "adjudicated_new"}
+{"id": "504", "word": "öğretim", "segments": ["öğretim"], "labels": [], "origin": "annotator_agreed"}
+{"id": "505", "word": "Anadolu", "segments": ["Anadolu"], "labels": [], "origin": "adjudicated_new"}
+{"id": "506", "word": "boyun", "segments": ["boyun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "507", "word": "velilerimize", "segments": ["veli", "ler", "imiz", "e"], "labels": ["PL", "P1PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "508", "word": "Parkı", "segments": ["Park", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "509", "word": "yerleşeceğini", "segments": ["yerleş", "eceğ", "i", "ni"], "labels": ["FUT.PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "510", "word": "sınavı", "segments": ["sınav", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "511", "word": "ikili", "segments": ["iki", "li"], "labels": ["ADJ"], "origin": "adjudicated_new"}
+{"id": "512", "word": "yoksa", "segments": ["yoksa"], "labels": [], "origin": "annotator_agreed"}
+{"id": "513", "word": "geçmiştir", "segments": ["geç", "miş", "tir"], "labels": ["EVID/PTCP", "COP"], "origin": "adjudicated_new"}
+{"id": "514", "word": "okul", "segments": ["okul"], "labels": [], "origin": "annotator_agreed"}
+{"id": "515", "word": "Kentte", "segments": ["Kent", "te"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "516", "word": "inanıyorum", "segments": ["inan", "ıyor", "um"], "labels": ["PROG", "A1SG"], "origin": "adjudicated_new"}
+{"id": "517", "word": "trenler", "segments": ["tren", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "518", "word": "daki", "segments": ["da", "ki"], "labels": ["REL"], "origin": "annotator_agreed"}
+{"id": "519", "word": "derlendi", "segments": ["derlen", "di"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "520", "word": "bulmasını", "segments": ["bul", "ma", "sı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "521", "word": "incelemişti", "segments": ["incele", "miş", "ti"], "labels": [], "origin": "annotator_agreed"}
+{"id": "522", "word": "milliyetçi", "segments": ["milliyet", "çi"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "523", "word": "maçında", "segments": ["maç", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "524", "word": "yıllar", "segments": ["yıl", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "525", "word": "Türkiye", "segments": ["Türkiye"], "labels": [], "origin": "adjudicated_new"}
+{"id": "526", "word": "ediyorum", "segments": ["ed", "iyor", "um"], "labels": ["PROG", "A1SG"], "origin": "adjudicated_new"}
+{"id": "527", "word": "Bacasız", "segments": ["Baca", "sız"], "labels": [], "origin": "annotator_agreed"}
+{"id": "528", "word": "duyarlılığı", "segments": ["duyarlılığ", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "529", "word": "nefesi", "segments": ["nefes", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "530", "word": "beraber", "segments": ["beraber"], "labels": [], "origin": "adjudicated_new"}
+{"id": "531", "word": "Kaymakam", "segments": ["Kaymakam"], "labels": [], "origin": "annotator_agreed"}
+{"id": "532", "word": "projenin", "segments": ["proje", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "533", "word": "artık", "segments": ["artık"], "labels": [], "origin": "annotator_agreed"}
+{"id": "534", "word": "Deewan", "segments": ["Deewan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "535", "word": "yasaklanması", "segments": ["yasaklan", "ma", "sı"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "536", "word": "gelişmelerin", "segments": ["gelişme", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "537", "word": "kağıt", "segments": ["kağıt"], "labels": [], "origin": "annotator_agreed"}
+{"id": "538", "word": "yapılması", "segments": ["yap", "ıl", "ma", "sı"], "labels": ["PASS/REFL", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "539", "word": "olmazsa", "segments": ["ol", "maz", "sa"], "labels": ["NEG.AOR", "COND"], "origin": "adjudicated_new"}
+{"id": "540", "word": "sıraya", "segments": ["sıra", "ya"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "541", "word": "payının", "segments": ["pay", "ı", "nın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "542", "word": "Ross", "segments": ["Ross"], "labels": [], "origin": "annotator_agreed"}
+{"id": "543", "word": "etmeye", "segments": ["et", "me", "ye"], "labels": [], "origin": "annotator_agreed"}
+{"id": "544", "word": "Metaverse", "segments": ["Metaverse"], "labels": [], "origin": "annotator_agreed"}
+{"id": "545", "word": "geneline", "segments": ["genel", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "546", "word": "Haziran", "segments": ["Haziran"], "labels": [], "origin": "adjudicated_new"}
+{"id": "547", "word": "hastalığından", "segments": ["hasta", "lığ", "ı", "ndan"], "labels": ["NMLZ", "P3SG", "ABL"], "origin": "adjudicated_new"}
+{"id": "548", "word": "izlemenizi", "segments": ["izle", "me", "niz", "i"], "labels": ["VN", "P2PL", "ACC"], "origin": "adjudicated_new"}
+{"id": "549", "word": "edilecektir", "segments": ["ed", "il", "ecek", "tir"], "labels": ["PASS/REFL", "FUT.PTCP", "COP"], "origin": "adjudicated_new"}
+{"id": "550", "word": "istiyorsanız", "segments": ["ist", "iyor", "sa", "nız"], "labels": ["PROG", "COND", "A2PL"], "origin": "adjudicated_new"}
+{"id": "551", "word": "Etki", "segments": ["Etki"], "labels": [], "origin": "annotator_agreed"}
+{"id": "552", "word": "Pilotlar", "segments": ["Pilot", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "553", "word": "yönetimimiz", "segments": ["yönetim", "imiz"], "labels": ["P1PL"], "origin": "annotator_agreed"}
+{"id": "554", "word": "hyaluronik", "segments": ["hyaluronik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "555", "word": "yaşanacak", "segments": ["yaşan", "acak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "556", "word": "Kuruluşları", "segments": ["Kuruluş", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "557", "word": "televizyonu", "segments": ["televizyon", "u"], "labels": [], "origin": "annotator_agreed"}
+{"id": "558", "word": "nasıl", "segments": ["nasıl"], "labels": [], "origin": "annotator_agreed"}
+{"id": "559", "word": "Tips", "segments": ["Tips"], "labels": [], "origin": "annotator_agreed"}
+{"id": "560", "word": "Uygur", "segments": ["Uygur"], "labels": [], "origin": "annotator_agreed"}
+{"id": "561", "word": "uğradığı", "segments": ["uğra", "dığ", "ı"], "labels": ["PTCP", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "562", "word": "Video", "segments": ["Video"], "labels": [], "origin": "annotator_agreed"}
+{"id": "563", "word": "ürünü", "segments": ["ürün", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "564", "word": "acısız", "segments": ["acı", "sız"], "labels": [], "origin": "annotator_agreed"}
+{"id": "565", "word": "önemini", "segments": ["önem", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "566", "word": "baklava", "segments": ["baklava"], "labels": [], "origin": "annotator_agreed"}
+{"id": "567", "word": "geçmektedir", "segments": ["geç", "mekte", "dir"], "labels": ["PROG", "COP"], "origin": "annotator_agreed"}
+{"id": "568", "word": "Jeannett", "segments": ["Jeannett"], "labels": [], "origin": "annotator_agreed"}
+{"id": "569", "word": "takvimleri", "segments": ["takvim", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "570", "word": "çizmez", "segments": ["çiz", "mez"], "labels": ["NEG.AOR"], "origin": "adjudicated_new"}
+{"id": "571", "word": "Üreticinin", "segments": ["Üretici", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "572", "word": "baktığımızda", "segments": ["bak", "tığ", "ımız", "da"], "labels": ["PTCP", "P1PL", "LOC"], "origin": "annotator_agreed"}
+{"id": "573", "word": "demokrasiye", "segments": ["demokrasi", "ye"], "labels": ["DAT"], "origin": "adjudicated_new"}
+{"id": "574", "word": "taşındı", "segments": ["taşın", "dı"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "575", "word": "arzum", "segments": ["arzu", "m"], "labels": ["P1SG"], "origin": "adjudicated_new"}
+{"id": "576", "word": "sorunlara", "segments": ["sorun", "lar", "a"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "577", "word": "yıllık", "segments": ["yıl", "lık"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "578", "word": "intikam", "segments": ["intikam"], "labels": [], "origin": "annotator_agreed"}
+{"id": "579", "word": "Tahsisine", "segments": ["Tahsis", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "580", "word": "altında", "segments": ["alt", "ı", "nda"], "labels": [], "origin": "annotator_agreed"}
+{"id": "581", "word": "sözümüz", "segments": ["söz", "ümüz"], "labels": ["P1PL"], "origin": "annotator_agreed"}
+{"id": "582", "word": "bulunuşluk", "segments": ["bulunuş", "luk"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "583", "word": "yapılmasını", "segments": ["yapıl", "ma", "sı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "584", "word": "yapılacak", "segments": ["yapıl", "acak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "585", "word": "Senin", "segments": ["Sen", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "586", "word": "kaybolma", "segments": ["kaybol", "ma"], "labels": ["VN/NEG"], "origin": "adjudicated_new"}
+{"id": "587", "word": "Rhodopsin", "segments": ["Rhodopsin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "588", "word": "niteliğinde", "segments": ["niteliğ", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "589", "word": "jason", "segments": ["jason"], "labels": [], "origin": "annotator_agreed"}
+{"id": "590", "word": "kaybolmaya", "segments": ["kaybol", "ma", "ya"], "labels": [], "origin": "annotator_agreed"}
+{"id": "591", "word": "rakip", "segments": ["rakip"], "labels": [], "origin": "adjudicated_new"}
+{"id": "592", "word": "değerleme", "segments": ["değerleme"], "labels": [], "origin": "annotator_agreed"}
+{"id": "593", "word": "ettirmiştik", "segments": ["et", "tir", "miş", "tik"], "labels": ["CAUS", "EVID/PTCP", "PAST.A1PL"], "origin": "adjudicated_new"}
+{"id": "594", "word": "pozisyonu", "segments": ["pozisyon", "u"], "labels": [], "origin": "annotator_agreed"}
+{"id": "595", "word": "Ekip", "segments": ["Ekip"], "labels": [], "origin": "adjudicated_new"}
+{"id": "596", "word": "yerde", "segments": ["yer", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "597", "word": "Aloqab", "segments": ["Aloqab"], "labels": [], "origin": "annotator_agreed"}
+{"id": "598", "word": "edildiğini", "segments": ["ed", "il", "diğ", "i", "ni"], "labels": ["PASS/REFL", "PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "599", "word": "iken", "segments": ["i", "ken"], "labels": ["CV"], "origin": "adjudicated_new"}
+{"id": "600", "word": "çözümü", "segments": ["çözüm", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "601", "word": "ilçesine", "segments": ["ilçe", "si", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "602", "word": "Komitesi", "segments": ["Komite", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "603", "word": "işlenen", "segments": ["işle", "n", "en"], "labels": [], "origin": "annotator_agreed"}
+{"id": "604", "word": "ISBN", "segments": ["ISBN"], "labels": [], "origin": "annotator_agreed"}
+{"id": "605", "word": "yaşamamak", "segments": ["yaşa", "ma", "mak"], "labels": ["NEG", "INF"], "origin": "annotator_agreed"}
+{"id": "606", "word": "Hailey", "segments": ["Hailey"], "labels": [], "origin": "annotator_agreed"}
+{"id": "607", "word": "hatun", "segments": ["hatun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "608", "word": "derdine", "segments": ["derd", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "609", "word": "kaynaklar", "segments": ["kaynak", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "610", "word": "teşekkür", "segments": ["teşekkür"], "labels": [], "origin": "adjudicated_new"}
+{"id": "611", "word": "Çinli", "segments": ["Çin", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "612", "word": "aydınlanma", "segments": ["aydın", "lan", "ma"], "labels": ["UNK", "VN"], "origin": "adjudicated_new"}
+{"id": "613", "word": "Marquez", "segments": ["Marquez"], "labels": [], "origin": "annotator_agreed"}
+{"id": "614", "word": "Çekek", "segments": ["Çekek"], "labels": [], "origin": "annotator_agreed"}
+{"id": "615", "word": "sınırlarından", "segments": ["sınır", "lar", "ı", "ndan"], "labels": ["PL", "P3SG", "ABL"], "origin": "adjudicated_new"}
+{"id": "616", "word": "zayıf", "segments": ["zayıf"], "labels": [], "origin": "annotator_agreed"}
+{"id": "617", "word": "gelip", "segments": ["gel", "ip"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "618", "word": "stallone", "segments": ["stallone"], "labels": [], "origin": "annotator_agreed"}
+{"id": "619", "word": "içinde", "segments": ["iç", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "620", "word": "Bulls", "segments": ["Bulls"], "labels": [], "origin": "annotator_agreed"}
+{"id": "621", "word": "riskleri", "segments": ["risk", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "622", "word": "edilmiş", "segments": ["edil", "miş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "623", "word": "hocamla", "segments": ["hoca", "m", "la"], "labels": [], "origin": "annotator_agreed"}
+{"id": "624", "word": "dolaşarak", "segments": ["dolaş", "arak"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "625", "word": "değerler", "segments": ["değer", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "626", "word": "Milletvekillerimizle", "segments": ["Milletvekil", "ler", "imiz", "le"], "labels": ["PL", "P1PL", "INS"], "origin": "adjudicated_new"}
+{"id": "627", "word": "Kamuoyuna", "segments": ["Kamuoyu", "na"], "labels": ["DAT"], "origin": "adjudicated_new"}
+{"id": "628", "word": "bölgesine", "segments": ["bölge", "si", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "629", "word": "diktatörü", "segments": ["diktatör", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "630", "word": "kaliteli", "segments": ["kalite", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "631", "word": "işlemin", "segments": ["işlem", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "632", "word": "kaçmayı", "segments": ["kaç", "ma", "yı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "633", "word": "sandalyelerin", "segments": ["sandalye", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "634", "word": "yılları", "segments": ["yıl", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "635", "word": "Chartered", "segments": ["Chartered"], "labels": [], "origin": "annotator_agreed"}
+{"id": "636", "word": "nüfus", "segments": ["nüfus"], "labels": [], "origin": "annotator_agreed"}
+{"id": "637", "word": "rapor", "segments": ["rapor"], "labels": [], "origin": "adjudicated_new"}
+{"id": "638", "word": "Ürettiği", "segments": ["Üret", "tiğ", "i"], "labels": ["PTCP", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "639", "word": "Toplum", "segments": ["Toplum"], "labels": [], "origin": "annotator_agreed"}
+{"id": "640", "word": "mermi", "segments": ["mermi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "641", "word": "Kooperatifi", "segments": ["Kooperatif", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "642", "word": "Cilde", "segments": ["Cild", "e"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "643", "word": "kullanmaya", "segments": ["kullan", "ma", "ya"], "labels": [], "origin": "annotator_agreed"}
+{"id": "644", "word": "spin", "segments": ["spin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "645", "word": "yüzünün", "segments": ["yüz", "ü", "nün"], "labels": [], "origin": "annotator_agreed"}
+{"id": "646", "word": "bulunacağını", "segments": ["bulun", "acağ", "ı", "nı"], "labels": ["FUT.PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "647", "word": "Düzenlenmesi", "segments": ["Düzenlenme", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "648", "word": "çıkacağını", "segments": ["çık", "acağ", "ı", "nı"], "labels": ["FUT.PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "649", "word": "gerektiğini", "segments": ["gerek", "tiğ", "i", "ni"], "labels": ["PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "650", "word": "gelişmesi", "segments": ["geliş", "me", "si"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "651", "word": "Kursları", "segments": ["Kurs", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "652", "word": "mevsimiyle", "segments": ["mevsim", "i", "yle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "653", "word": "Kent", "segments": ["Kent"], "labels": [], "origin": "annotator_agreed"}
+{"id": "654", "word": "bulunurken", "segments": ["bulun", "ur", "ken"], "labels": ["AOR", "CV"], "origin": "annotator_agreed"}
+{"id": "655", "word": "Tüvshinjargalyn", "segments": ["Tüvshinjargalyn"], "labels": [], "origin": "annotator_agreed"}
+{"id": "656", "word": "öğrencilerimizin", "segments": ["öğrenci", "ler", "imiz", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "657", "word": "Yüksekfokuslu", "segments": ["Yüksekfokus", "lu"], "labels": ["ADJ"], "origin": "adjudicated_new"}
+{"id": "658", "word": "CİLT", "segments": ["CİLT"], "labels": [], "origin": "annotator_agreed"}
+{"id": "659", "word": "etkisinin", "segments": ["etki", "si", "nin"], "labels": ["P3SG", "GEN"], "origin": "adjudicated_new"}
+{"id": "660", "word": "yapmıştır", "segments": ["yap", "mış", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "661", "word": "arazilerine", "segments": ["arazi", "ler", "i", "ne"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "662", "word": "ızdıraptan", "segments": ["ızdırap", "tan"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "663", "word": "Jared", "segments": ["Jared"], "labels": [], "origin": "annotator_agreed"}
+{"id": "664", "word": "Vakıf", "segments": ["Vakıf"], "labels": [], "origin": "annotator_agreed"}
+{"id": "665", "word": "İşlemden", "segments": ["İşlem", "den"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "666", "word": "suçu", "segments": ["suç", "u"], "labels": [], "origin": "annotator_agreed"}
+{"id": "667", "word": "acımasızlık", "segments": ["acımasız", "lık"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "668", "word": "Müthiş", "segments": ["Müthiş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "669", "word": "KATLİAMI", "segments": ["KATLİAMI"], "labels": [], "origin": "annotator_agreed"}
+{"id": "670", "word": "ışıklar", "segments": ["ışık", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "671", "word": "peşine", "segments": ["peş", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "672", "word": "Belediye", "segments": ["Belediye"], "labels": [], "origin": "annotator_agreed"}
+{"id": "673", "word": "Çünkü", "segments": ["Çünkü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "674", "word": "okulun", "segments": ["okul", "un"], "labels": [], "origin": "annotator_agreed"}
+{"id": "675", "word": "iyice", "segments": ["iyice"], "labels": [], "origin": "annotator_agreed"}
+{"id": "676", "word": "Group", "segments": ["Group"], "labels": [], "origin": "annotator_agreed"}
+{"id": "677", "word": "tadını", "segments": ["tad", "ı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "678", "word": "gerekliliği", "segments": ["gerekliliğ", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "679", "word": "binary", "segments": ["binary"], "labels": [], "origin": "annotator_agreed"}
+{"id": "680", "word": "görüşmesine", "segments": ["görüş", "me", "si", "ne"], "labels": ["VN", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "681", "word": "suyunu", "segments": ["su", "yu", "nu"], "labels": ["ACC", "ACC"], "origin": "annotator_agreed"}
+{"id": "682", "word": "olayın", "segments": ["olay", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "683", "word": "hemen", "segments": ["hemen"], "labels": [], "origin": "adjudicated_new"}
+{"id": "684", "word": "yaklaştıkça", "segments": ["yaklaş", "tık", "ça"], "labels": [], "origin": "annotator_agreed"}
+{"id": "685", "word": "yağmalanmak", "segments": ["yağmala", "n", "mak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "686", "word": "borçlularına", "segments": ["borç", "lu", "lar", "ı", "na"], "labels": ["ADJ", "PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "687", "word": "yakın", "segments": ["yakın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "688", "word": "bedelinin", "segments": ["bedel", "i", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "689", "word": "kaynakları", "segments": ["kaynak", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "690", "word": "edilen", "segments": ["ed", "il", "en"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_new"}
+{"id": "691", "word": "finale", "segments": ["final", "e"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "692", "word": "göre", "segments": ["göre"], "labels": [], "origin": "annotator_agreed"}
+{"id": "693", "word": "Muhafazası", "segments": ["Muhafaza", "sı"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "694", "word": "MODELİ", "segments": ["MODELİ"], "labels": [], "origin": "annotator_agreed"}
+{"id": "695", "word": "alınız", "segments": ["al", "ınız"], "labels": ["A2PL/IMP"], "origin": "adjudicated_new"}
+{"id": "696", "word": "yıldızlarından", "segments": ["yıldız", "lar", "ı", "ndan"], "labels": ["PL", "P3SG", "ABL"], "origin": "adjudicated_new"}
+{"id": "697", "word": "aktif", "segments": ["aktif"], "labels": [], "origin": "annotator_agreed"}
+{"id": "698", "word": "yapmazsa", "segments": ["yap", "maz", "sa"], "labels": ["NEG.AOR", "COND"], "origin": "annotator_agreed"}
+{"id": "699", "word": "dallarına", "segments": ["dal", "lar", "ı", "na"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "700", "word": "online", "segments": ["online"], "labels": [], "origin": "annotator_agreed"}
+{"id": "701", "word": "dedem", "segments": ["dede", "m"], "labels": [], "origin": "annotator_agreed"}
+{"id": "702", "word": "biridir", "segments": ["biri", "dir"], "labels": ["COP"], "origin": "annotator_agreed"}
+{"id": "703", "word": "istenmemesi", "segments": ["iste", "n", "me", "me", "si"], "labels": ["PASS/REFL", "NEG", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "704", "word": "verdi", "segments": ["ver", "di"], "labels": ["PAST"], "origin": "adjudicated_new"}
+{"id": "705", "word": "müsait", "segments": ["müsait"], "labels": [], "origin": "annotator_agreed"}
+{"id": "706", "word": "geldi", "segments": ["gel", "di"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "707", "word": "Profilde", "segments": ["Profil", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "708", "word": "Baltık", "segments": ["Baltık"], "labels": [], "origin": "annotator_agreed"}
+{"id": "709", "word": "Koordinatörü", "segments": ["Koordinatör", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "710", "word": "kaldırım", "segments": ["kaldırım"], "labels": [], "origin": "annotator_agreed"}
+{"id": "711", "word": "yakalayacağını", "segments": ["yakala", "yacağ", "ı", "nı"], "labels": ["FUT.PTCP", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "712", "word": "Köfte", "segments": ["Köfte"], "labels": [], "origin": "annotator_agreed"}
+{"id": "713", "word": "ulaşın", "segments": ["ulaş", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "714", "word": "KREMİ", "segments": ["KREMİ"], "labels": [], "origin": "annotator_agreed"}
+{"id": "715", "word": "sırasında", "segments": ["sıra", "sı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "716", "word": "Bakım", "segments": ["Bakım"], "labels": [], "origin": "annotator_agreed"}
+{"id": "717", "word": "ediliyor", "segments": ["ed", "il", "iyor"], "labels": ["PASS/REFL", "PROG"], "origin": "adjudicated_new"}
+{"id": "718", "word": "yetkisi", "segments": ["yetki", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "719", "word": "denilmektedir", "segments": ["denil", "mekte", "dir"], "labels": ["PROG", "COP"], "origin": "annotator_agreed"}
+{"id": "720", "word": "Ocak", "segments": ["Ocak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "721", "word": "zorluk", "segments": ["zor", "luk"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "722", "word": "görünüme", "segments": ["görünüm", "e"], "labels": ["DAT"], "origin": "adjudicated_new"}
+{"id": "723", "word": "bilemedin", "segments": ["bil", "e", "me", "din"], "labels": ["ABIL", "NEG", "PAST.A2SG"], "origin": "adjudicated_new"}
+{"id": "724", "word": "aydır", "segments": ["ay", "dır"], "labels": ["COP"], "origin": "adjudicated_new"}
+{"id": "725", "word": "derslerin", "segments": ["ders", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "726", "word": "kurslardan", "segments": ["kurs", "lar", "dan"], "labels": ["PL", "ABL"], "origin": "annotator_agreed"}
+{"id": "727", "word": "gazeteci", "segments": ["gazete", "ci"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "728", "word": "mağduriyet", "segments": ["mağduriyet"], "labels": [], "origin": "annotator_agreed"}
+{"id": "729", "word": "üzerinde", "segments": ["üzer", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "730", "word": "adresinizi", "segments": ["adres", "iniz", "i"], "labels": ["P2PL", "ACC"], "origin": "adjudicated_new"}
+{"id": "731", "word": "Caddesinin", "segments": ["Cadde", "si", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "732", "word": "kesinleşir", "segments": ["kesinleş", "ir"], "labels": ["AOR"], "origin": "annotator_agreed"}
+{"id": "733", "word": "gerekli", "segments": ["gerek", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "734", "word": "Harekete", "segments": ["Hareket", "e"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "735", "word": "mezun", "segments": ["mezun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "736", "word": "olmazıdır", "segments": ["olmaz", "ı", "dır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "737", "word": "Şehrin", "segments": ["Şehr", "in"], "labels": ["GEN/P2SG"], "origin": "adjudicated_new"}
+{"id": "738", "word": "dinleyebilmesi", "segments": ["dinle", "yebil", "me", "si"], "labels": ["ABIL", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "739", "word": "haberle", "segments": ["haber", "le"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "740", "word": "Uzmanı", "segments": ["Uzman", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "741", "word": "okuma", "segments": ["okuma"], "labels": [], "origin": "annotator_agreed"}
+{"id": "742", "word": "almak", "segments": ["al", "mak"], "labels": ["INF"], "origin": "adjudicated_new"}
+{"id": "743", "word": "oldukları", "segments": ["ol", "duk", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "744", "word": "sözleşme", "segments": ["sözleşme"], "labels": [], "origin": "annotator_agreed"}
+{"id": "745", "word": "bende", "segments": ["ben", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "746", "word": "Kariyeri", "segments": ["Kariyer", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "747", "word": "kayıtlarında", "segments": ["kayıt", "lar", "ı", "nda"], "labels": ["PL", "P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "748", "word": "sağladık", "segments": ["sağla", "dık"], "labels": ["PAST.A1PL/PTCP"], "origin": "adjudicated_new"}
+{"id": "749", "word": "gösterilerek", "segments": ["gösteril", "erek"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "750", "word": "Romantik", "segments": ["Romantik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "751", "word": "severiz", "segments": ["sev", "er", "iz"], "labels": ["AOR", "A1PL"], "origin": "adjudicated_new"}
+{"id": "752", "word": "KIRIŞIKLIKLARINI", "segments": ["KIRIŞIKLIK", "LAR", "I", "NI"], "labels": ["PL", "P3SG", "ACC"], "origin": "adjudicated_new"}
+{"id": "753", "word": "yolların", "segments": ["yol", "lar", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "754", "word": "klişeleşmiş", "segments": ["klişeleş", "miş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "755", "word": "sonuçları", "segments": ["sonuç", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "756", "word": "kitap", "segments": ["kitap"], "labels": [], "origin": "annotator_agreed"}
+{"id": "757", "word": "ülkemizde", "segments": ["ülke", "miz", "de"], "labels": ["P1PL", "LOC"], "origin": "annotator_agreed"}
+{"id": "758", "word": "görevini", "segments": ["görev", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "759", "word": "başkanları", "segments": ["başkan", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "760", "word": "bunu", "segments": ["bu", "nu"], "labels": ["ACC"], "origin": "adjudicated_new"}
+{"id": "761", "word": "pembe", "segments": ["pembe"], "labels": [], "origin": "annotator_agreed"}
+{"id": "762", "word": "yapması", "segments": ["yap", "ma", "sı"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "763", "word": "yumuşuyoruz", "segments": ["yumuş", "uyor", "uz"], "labels": ["PROG", "A1PL"], "origin": "adjudicated_new"}
+{"id": "764", "word": "kabulünde", "segments": ["kabul", "ü", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "765", "word": "polisler", "segments": ["polis", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "766", "word": "Shamil", "segments": ["Shamil"], "labels": [], "origin": "annotator_agreed"}
+{"id": "767", "word": "şartlarında", "segments": ["şart", "lar", "ın", "da"], "labels": [], "origin": "annotator_agreed"}
+{"id": "768", "word": "süredir", "segments": ["süre", "dir"], "labels": ["COP"], "origin": "adjudicated_new"}
+{"id": "769", "word": "edildiği", "segments": ["ed", "il", "diğ", "i"], "labels": ["PASS/REFL", "PTCP", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "770", "word": "parasını", "segments": ["para", "sı", "nı"], "labels": ["P3SG", "ACC"], "origin": "annotator_agreed"}
+{"id": "771", "word": "numaralarına", "segments": ["numara", "lar", "ı", "na"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "772", "word": "Demokratik", "segments": ["Demokratik"], "labels": [], "origin": "annotator_agreed"}
+{"id": "773", "word": "artışında", "segments": ["artış", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "774", "word": "düzene", "segments": ["düzen", "e"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "775", "word": "santralı", "segments": ["santral", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "776", "word": "gösterim", "segments": ["gösterim"], "labels": [], "origin": "annotator_agreed"}
+{"id": "777", "word": "GERÇEĞİ", "segments": ["GERÇEĞİ"], "labels": [], "origin": "annotator_agreed"}
+{"id": "778", "word": "geçişleri", "segments": ["geçiş", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "779", "word": "kısa", "segments": ["kısa"], "labels": [], "origin": "annotator_agreed"}
+{"id": "780", "word": "bedduayla", "segments": ["beddua", "yla"], "labels": ["INS"], "origin": "adjudicated_new"}
+{"id": "781", "word": "bayan", "segments": ["bayan"], "labels": [], "origin": "adjudicated_new"}
+{"id": "782", "word": "kurulabilirler", "segments": ["kurul", "abil", "ir", "ler"], "labels": ["ABIL", "AOR", "A3PL"], "origin": "annotator_agreed"}
+{"id": "783", "word": "kurulması", "segments": ["kur", "ul", "ma", "sı"], "labels": ["PASS/REFL", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "784", "word": "yaşama", "segments": ["yaşama"], "labels": [], "origin": "annotator_agreed"}
+{"id": "785", "word": "inşallah", "segments": ["inşallah"], "labels": [], "origin": "annotator_agreed"}
+{"id": "786", "word": "sonuca", "segments": ["sonuc", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "787", "word": "bütün", "segments": ["bütün"], "labels": [], "origin": "annotator_agreed"}
+{"id": "788", "word": "İÇİLMELİ", "segments": ["İÇ", "İL", "MELİ"], "labels": ["PASS/REFL", "NEC"], "origin": "adjudicated_new"}
+{"id": "789", "word": "Ülkemizin", "segments": ["Ülke", "miz", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "790", "word": "hatlarından", "segments": ["hat", "lar", "ı", "ndan"], "labels": ["PL", "P3SG", "ABL"], "origin": "adjudicated_new"}
+{"id": "791", "word": "verdiğimiz", "segments": ["ver", "diğ", "imiz"], "labels": ["PTCP", "P1PL"], "origin": "adjudicated_new"}
+{"id": "792", "word": "üretimi", "segments": ["üretim", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "793", "word": "Samsunumuzun", "segments": ["Samsun", "umuz", "un"], "labels": [], "origin": "annotator_agreed"}
+{"id": "794", "word": "dağılan", "segments": ["dağıl", "an"], "labels": ["PTCP"], "origin": "annotator_agreed"}
+{"id": "795", "word": "Gıda", "segments": ["Gıda"], "labels": [], "origin": "annotator_agreed"}
+{"id": "796", "word": "İran", "segments": ["İran"], "labels": [], "origin": "annotator_agreed"}
+{"id": "797", "word": "nefret", "segments": ["nefret"], "labels": [], "origin": "annotator_agreed"}
+{"id": "798", "word": "olacaktır", "segments": ["ol", "acak", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "799", "word": "şüphesiz", "segments": ["şüphe", "siz"], "labels": [], "origin": "annotator_agreed"}
+{"id": "800", "word": "Denetleme", "segments": ["Denetleme"], "labels": [], "origin": "annotator_agreed"}
+{"id": "801", "word": "çıkabilecek", "segments": ["çık", "abil", "ecek"], "labels": [], "origin": "annotator_agreed"}
+{"id": "802", "word": "Karlshamn", "segments": ["Karlshamn"], "labels": [], "origin": "annotator_agreed"}
+{"id": "803", "word": "olduğuna", "segments": ["ol", "duğ", "u", "na"], "labels": [], "origin": "annotator_agreed"}
+{"id": "804", "word": "Benim", "segments": ["Ben", "im"], "labels": [], "origin": "annotator_agreed"}
+{"id": "805", "word": "içeriyor", "segments": ["içer", "iyor"], "labels": ["PROG"], "origin": "annotator_agreed"}
+{"id": "806", "word": "sağlanması", "segments": ["sağla", "n", "ma", "sı"], "labels": ["PASS/REFL", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "807", "word": "katledilmiştir", "segments": ["katled", "il", "miş", "tir"], "labels": ["PASS/REFL", "EVID/PTCP", "COP"], "origin": "adjudicated_new"}
+{"id": "808", "word": "çatışma", "segments": ["çatışma"], "labels": [], "origin": "annotator_agreed"}
+{"id": "809", "word": "birleşimiyle", "segments": ["birleşim", "i", "yle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "810", "word": "değil", "segments": ["değil"], "labels": [], "origin": "annotator_agreed"}
+{"id": "811", "word": "uygulanacak", "segments": ["uygulan", "acak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "812", "word": "yapılabilmesi", "segments": ["yapıl", "abil", "me", "si"], "labels": [], "origin": "annotator_agreed"}
+{"id": "813", "word": "duygu", "segments": ["duygu"], "labels": [], "origin": "annotator_agreed"}
+{"id": "814", "word": "aydınlığa", "segments": ["aydınlığ", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "815", "word": "Üyesi", "segments": ["Üye", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "816", "word": "proje", "segments": ["proje"], "labels": [], "origin": "annotator_agreed"}
+{"id": "817", "word": "bazen", "segments": ["bazen"], "labels": [], "origin": "adjudicated_new"}
+{"id": "818", "word": "Okulumuzun", "segments": ["Okul", "umuz", "un"], "labels": [], "origin": "annotator_agreed"}
+{"id": "819", "word": "sorunlarının", "segments": ["sorun", "lar", "ı", "nın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "820", "word": "lekelenmelerin", "segments": ["lekelenme", "ler", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "821", "word": "yılda", "segments": ["yıl", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "822", "word": "başlıyor", "segments": ["başlı", "yor"], "labels": ["PROG"], "origin": "annotator_agreed"}
+{"id": "823", "word": "köpeğine", "segments": ["köpeğ", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "824", "word": "tersi", "segments": ["ters", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "825", "word": "napıcan", "segments": ["napıcan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "826", "word": "savaşı", "segments": ["savaş", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "827", "word": "Todas", "segments": ["Todas"], "labels": [], "origin": "annotator_agreed"}
+{"id": "828", "word": "mahsulünü", "segments": ["mahsul", "ü", "nü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "829", "word": "dede", "segments": ["dede"], "labels": [], "origin": "annotator_agreed"}
+{"id": "830", "word": "kırışıklıklar", "segments": ["kırışıklık", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "831", "word": "moral", "segments": ["moral"], "labels": [], "origin": "annotator_agreed"}
+{"id": "832", "word": "şahsen", "segments": ["şahsen"], "labels": [], "origin": "adjudicated_new"}
+{"id": "833", "word": "Ekibin", "segments": ["Ekib", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "834", "word": "nesli", "segments": ["nesl", "i"], "labels": ["P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "835", "word": "marketer", "segments": ["marketer"], "labels": [], "origin": "annotator_agreed"}
+{"id": "836", "word": "aralığında", "segments": ["aralığ", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "837", "word": "kesinlikle", "segments": ["kesinlikle"], "labels": [], "origin": "annotator_agreed"}
+{"id": "838", "word": "Görsel", "segments": ["Gör", "sel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "839", "word": "Bazı", "segments": ["Bazı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "840", "word": "yerinin", "segments": ["yer", "i", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "841", "word": "ANMA", "segments": ["ANMA"], "labels": [], "origin": "annotator_agreed"}
+{"id": "842", "word": "camlarını", "segments": ["cam", "lar", "ı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "843", "word": "silahın", "segments": ["silah", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "844", "word": "adaptasyonunu", "segments": ["adaptasyon", "u", "nu"], "labels": [], "origin": "annotator_agreed"}
+{"id": "845", "word": "gelişimleri", "segments": ["gelişim", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "846", "word": "geceleri", "segments": ["gece", "ler", "i"], "labels": ["PL", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "847", "word": "sektör", "segments": ["sektör"], "labels": [], "origin": "adjudicated_new"}
+{"id": "848", "word": "ulaştı", "segments": ["ulaş", "tı"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "849", "word": "yönlendiricileri", "segments": ["yönlendirici", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "850", "word": "tamir", "segments": ["tamir"], "labels": [], "origin": "adjudicated_new"}
+{"id": "851", "word": "yaparken", "segments": ["yap", "ar", "ken"], "labels": ["AOR", "CV"], "origin": "annotator_agreed"}
+{"id": "852", "word": "derslerimizin", "segments": ["ders", "ler", "imiz", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "853", "word": "sürekli", "segments": ["sürek", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "854", "word": "sınavını", "segments": ["sınav", "ı", "nı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "855", "word": "serumuna", "segments": ["serum", "u", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "856", "word": "uğrattı", "segments": ["uğrat", "tı"], "labels": ["PAST"], "origin": "annotator_agreed"}
+{"id": "857", "word": "göstergeler", "segments": ["gösterge", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "858", "word": "örneği", "segments": ["örneğ", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "859", "word": "koyuyor", "segments": ["koy", "uyor"], "labels": ["PROG"], "origin": "adjudicated_new"}
+{"id": "860", "word": "ateşli", "segments": ["ateş", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "861", "word": "sokulmuş", "segments": ["sokul", "muş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "862", "word": "takipçisi", "segments": ["takipçi", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "863", "word": "güneyinde", "segments": ["güney", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "864", "word": "Emir", "segments": ["Emir"], "labels": [], "origin": "adjudicated_new"}
+{"id": "865", "word": "ailelere", "segments": ["aile", "ler", "e"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "866", "word": "kademelerimizde", "segments": ["kademe", "ler", "imiz", "de"], "labels": ["PL", "P1PL", "LOC"], "origin": "annotator_agreed"}
+{"id": "867", "word": "Kardeşler", "segments": ["Kardeş", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "868", "word": "mutluluk", "segments": ["mutlu", "luk"], "labels": ["NMLZ"], "origin": "annotator_agreed"}
+{"id": "869", "word": "Mecliste", "segments": ["Meclis", "te"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "870", "word": "dair", "segments": ["dair"], "labels": [], "origin": "adjudicated_new"}
+{"id": "871", "word": "yorgun", "segments": ["yorgun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "872", "word": "hoşgörü", "segments": ["hoşgörü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "873", "word": "hacimle", "segments": ["hacim", "le"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "874", "word": "düşüş", "segments": ["düşüş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "875", "word": "güvenle", "segments": ["güven", "le"], "labels": ["INS"], "origin": "annotator_agreed"}
+{"id": "876", "word": "sizin", "segments": ["siz", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "877", "word": "çıkmadan", "segments": ["çık", "ma", "dan"], "labels": [], "origin": "annotator_agreed"}
+{"id": "878", "word": "yükü", "segments": ["yük", "ü"], "labels": [], "origin": "annotator_agreed"}
+{"id": "879", "word": "sağlayacağız", "segments": ["sağla", "yacağ", "ız"], "labels": ["FUT", "A1PL"], "origin": "adjudicated_new"}
+{"id": "880", "word": "Üreticilerimize", "segments": ["Üretici", "ler", "imiz", "e"], "labels": ["PL", "P1PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "881", "word": "actualizados", "segments": ["actualizados"], "labels": [], "origin": "annotator_agreed"}
+{"id": "882", "word": "seyircinin", "segments": ["seyir", "ci", "nin"], "labels": ["AGT", "GEN/P2SG"], "origin": "adjudicated_new"}
+{"id": "883", "word": "olacak", "segments": ["ol", "acak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "884", "word": "Tekkeköy", "segments": ["Tekkeköy"], "labels": [], "origin": "annotator_agreed"}
+{"id": "885", "word": "gerici", "segments": ["geri", "ci"], "labels": ["AGT"], "origin": "annotator_agreed"}
+{"id": "886", "word": "çubuk", "segments": ["çubuk"], "labels": [], "origin": "annotator_agreed"}
+{"id": "887", "word": "yönde", "segments": ["yön", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "888", "word": "Şehrimizin", "segments": ["Şehr", "imiz", "in"], "labels": [], "origin": "annotator_agreed"}
+{"id": "889", "word": "mersini", "segments": ["mersin", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "890", "word": "dondurucuda", "segments": ["dondurucu", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "891", "word": "tahmin", "segments": ["tahmin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "892", "word": "CATCH", "segments": ["CATCH"], "labels": [], "origin": "annotator_agreed"}
+{"id": "893", "word": "devamı", "segments": ["devam", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "894", "word": "Arthur", "segments": ["Arthur"], "labels": [], "origin": "annotator_agreed"}
+{"id": "895", "word": "diri", "segments": ["diri"], "labels": [], "origin": "annotator_agreed"}
+{"id": "896", "word": "noktalarında", "segments": ["nokta", "lar", "ı", "nda"], "labels": ["PL", "P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "897", "word": "Yakakent", "segments": ["Yakakent"], "labels": [], "origin": "annotator_agreed"}
+{"id": "898", "word": "sütun", "segments": ["sütun"], "labels": [], "origin": "annotator_agreed"}
+{"id": "899", "word": "olup", "segments": ["ol", "up"], "labels": [], "origin": "annotator_agreed"}
+{"id": "900", "word": "pamuk", "segments": ["pamuk"], "labels": [], "origin": "annotator_agreed"}
+{"id": "901", "word": "anlamda", "segments": ["anlam", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "902", "word": "tavsiye", "segments": ["tavsiye"], "labels": [], "origin": "adjudicated_new"}
+{"id": "903", "word": "İslamic", "segments": ["İslamic"], "labels": [], "origin": "annotator_agreed"}
+{"id": "904", "word": "bilincinde", "segments": ["bilinc", "i", "nde"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "905", "word": "hediye", "segments": ["hediye"], "labels": [], "origin": "adjudicated_new"}
+{"id": "906", "word": "işlemlerden", "segments": ["işlem", "ler", "den"], "labels": ["PL", "ABL"], "origin": "annotator_agreed"}
+{"id": "907", "word": "kararın", "segments": ["karar", "ın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "908", "word": "uyarısında", "segments": ["uyarı", "sı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "909", "word": "Larroque", "segments": ["Larroque"], "labels": [], "origin": "annotator_agreed"}
+{"id": "910", "word": "haklarına", "segments": ["hak", "lar", "ı", "na"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "911", "word": "isteyen", "segments": ["iste", "yen"], "labels": ["PTCP"], "origin": "adjudicated_new"}
+{"id": "912", "word": "acınacak", "segments": ["acın", "acak"], "labels": [], "origin": "annotator_agreed"}
+{"id": "913", "word": "çalışmalar", "segments": ["çalış", "ma", "lar"], "labels": ["VN", "PL"], "origin": "adjudicated_new"}
+{"id": "914", "word": "dönemde", "segments": ["dönem", "de"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "915", "word": "düşmanı", "segments": ["düşman", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "916", "word": "Büyükbaş", "segments": ["Büyükbaş"], "labels": [], "origin": "annotator_agreed"}
+{"id": "917", "word": "insanlara", "segments": ["insan", "lar", "a"], "labels": ["PL", "DAT"], "origin": "annotator_agreed"}
+{"id": "918", "word": "tüketilmesi", "segments": ["tüket", "il", "me", "si"], "labels": ["PASS/REFL", "VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "919", "word": "çıkması", "segments": ["çık", "ma", "sı"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "920", "word": "ilgilendiren", "segments": ["ilgilen", "dir", "en"], "labels": ["CAUS", "PTCP"], "origin": "adjudicated_new"}
+{"id": "921", "word": "smacı", "segments": ["smac", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "922", "word": "Araştırmanın", "segments": ["Araştır", "ma", "nın"], "labels": [], "origin": "annotator_agreed"}
+{"id": "923", "word": "ultrasondur", "segments": ["ultrason", "dur"], "labels": ["COP"], "origin": "annotator_agreed"}
+{"id": "924", "word": "Seçimleri", "segments": ["Seçim", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "925", "word": "herkese", "segments": ["herkes", "e"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "926", "word": "PROGRAMIMIZI", "segments": ["PROGRAM", "IMIZ", "I"], "labels": ["P1PL", "ACC"], "origin": "adjudicated_new"}
+{"id": "927", "word": "kartı", "segments": ["kart", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "928", "word": "Terme", "segments": ["Terme"], "labels": [], "origin": "annotator_agreed"}
+{"id": "929", "word": "Aldıkları", "segments": ["Al", "dık", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "930", "word": "King", "segments": ["King"], "labels": [], "origin": "annotator_agreed"}
+{"id": "931", "word": "vergisine", "segments": ["vergi", "si", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "932", "word": "Hakkında", "segments": ["Hakk", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "933", "word": "cerrahi", "segments": ["cerrahi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "934", "word": "ödenmesiyle", "segments": ["öde", "n", "me", "si", "yle"], "labels": ["PASS/REFL", "VN", "P3SG", "INS"], "origin": "adjudicated_new"}
+{"id": "935", "word": "günden", "segments": ["gün", "den"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "936", "word": "ödemesine", "segments": ["öde", "me", "si", "ne"], "labels": ["VN", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "937", "word": "Valisi", "segments": ["Vali", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "938", "word": "girmesini", "segments": ["gir", "me", "si", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "939", "word": "hedefler", "segments": ["hedef", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "940", "word": "smaç", "segments": ["smaç"], "labels": [], "origin": "annotator_agreed"}
+{"id": "941", "word": "ödenen", "segments": ["öde", "n", "en"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_new"}
+{"id": "942", "word": "hattı", "segments": ["hatt", "ı"], "labels": ["P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "943", "word": "çözüm", "segments": ["çözüm"], "labels": [], "origin": "annotator_agreed"}
+{"id": "944", "word": "alanda", "segments": ["alan", "da"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "945", "word": "teşkilatında", "segments": ["teşkilat", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "946", "word": "Örneğin", "segments": ["Örneğin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "947", "word": "Kontrolden", "segments": ["Kontrol", "den"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "948", "word": "kalkacaktır", "segments": ["kalk", "acak", "tır"], "labels": [], "origin": "annotator_agreed"}
+{"id": "949", "word": "topladı", "segments": ["topla", "dı"], "labels": ["PAST"], "origin": "adjudicated_new"}
+{"id": "950", "word": "üyesidir", "segments": ["üye", "si", "dir"], "labels": ["P3SG", "COP"], "origin": "annotator_agreed"}
+{"id": "951", "word": "sizi", "segments": ["siz", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "952", "word": "nüfusa", "segments": ["nüfus", "a"], "labels": ["DAT"], "origin": "annotator_agreed"}
+{"id": "953", "word": "izlettiriyor", "segments": ["izle", "t", "tir", "iyor"], "labels": ["CAUS", "CAUS", "PROG"], "origin": "adjudicated_new"}
+{"id": "954", "word": "başlattığı", "segments": ["başla", "t", "tığ", "ı"], "labels": ["CAUS", "PTCP", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "955", "word": "yorum", "segments": ["yorum"], "labels": [], "origin": "annotator_agreed"}
+{"id": "956", "word": "etkileri", "segments": ["etki", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "957", "word": "şekerli", "segments": ["şeker", "li"], "labels": ["ADJ"], "origin": "annotator_agreed"}
+{"id": "958", "word": "otlar", "segments": ["ot", "lar"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "959", "word": "tarifleri", "segments": ["tarif", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "960", "word": "Listenin", "segments": ["Liste", "nin"], "labels": [], "origin": "annotator_agreed"}
+{"id": "961", "word": "Ingram", "segments": ["Ingram"], "labels": [], "origin": "annotator_agreed"}
+{"id": "962", "word": "kuvvetlendirmek", "segments": ["kuvvet", "len", "dir", "mek"], "labels": ["UNK", "CAUS", "INF"], "origin": "adjudicated_new"}
+{"id": "963", "word": "süreçte", "segments": ["süreç", "te"], "labels": ["LOC"], "origin": "annotator_agreed"}
+{"id": "964", "word": "kalkıyor", "segments": ["kalk", "ıyor"], "labels": ["PROG"], "origin": "adjudicated_new"}
+{"id": "965", "word": "Finansal", "segments": ["Finans", "al"], "labels": ["ADJ"], "origin": "adjudicated_new"}
+{"id": "966", "word": "kapsamına", "segments": ["kapsam", "ı", "na"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "967", "word": "Accountant", "segments": ["Accountant"], "labels": [], "origin": "annotator_agreed"}
+{"id": "968", "word": "takvimi", "segments": ["takvim", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "969", "word": "dikkat", "segments": ["dikkat"], "labels": [], "origin": "annotator_agreed"}
+{"id": "970", "word": "sönük", "segments": ["sönük"], "labels": [], "origin": "annotator_agreed"}
+{"id": "971", "word": "yetişmesi", "segments": ["yetiş", "me", "si"], "labels": ["VN", "P3SG"], "origin": "adjudicated_new"}
+{"id": "972", "word": "ölmedi", "segments": ["öl", "me", "di"], "labels": ["NEG", "PAST"], "origin": "adjudicated_new"}
+{"id": "973", "word": "Bölgesi", "segments": ["Bölge", "si"], "labels": ["P3SG"], "origin": "annotator_agreed"}
+{"id": "974", "word": "kalbine", "segments": ["kalb", "i", "ne"], "labels": ["P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "975", "word": "başlar", "segments": ["başla", "r"], "labels": ["AOR"], "origin": "adjudicated_new"}
+{"id": "976", "word": "hücreler", "segments": ["hücre", "ler"], "labels": ["PL"], "origin": "annotator_agreed"}
+{"id": "977", "word": "kültürel", "segments": ["kültürel"], "labels": [], "origin": "annotator_agreed"}
+{"id": "978", "word": "Onarım", "segments": ["Onarım"], "labels": [], "origin": "annotator_agreed"}
+{"id": "979", "word": "Anahtar", "segments": ["Anahtar"], "labels": [], "origin": "annotator_agreed"}
+{"id": "980", "word": "Kimi", "segments": ["Kimi"], "labels": [], "origin": "annotator_agreed"}
+{"id": "981", "word": "Amerika", "segments": ["Amerika"], "labels": [], "origin": "annotator_agreed"}
+{"id": "982", "word": "gençleştirmesinde", "segments": ["genç", "leş", "tir", "me", "si", "nde"], "labels": ["UNK", "CAUS", "VN", "P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "983", "word": "vermeleri", "segments": ["ver", "me", "ler", "i"], "labels": ["VN", "PL", "P3SG/ACC"], "origin": "adjudicated_new"}
+{"id": "984", "word": "yazın", "segments": ["yazın"], "labels": [], "origin": "adjudicated_new"}
+{"id": "985", "word": "Yemekleri", "segments": ["Yemek", "ler", "i"], "labels": [], "origin": "annotator_agreed"}
+{"id": "986", "word": "başrollerini", "segments": ["başrol", "ler", "i", "ni"], "labels": [], "origin": "annotator_agreed"}
+{"id": "987", "word": "dolayında", "segments": ["dolay", "ı", "nda"], "labels": ["P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "988", "word": "Kurs", "segments": ["Kurs"], "labels": [], "origin": "annotator_agreed"}
+{"id": "989", "word": "gelişimlerinde", "segments": ["gelişim", "ler", "i", "nde"], "labels": ["PL", "P3SG", "LOC"], "origin": "adjudicated_new"}
+{"id": "990", "word": "sorunları", "segments": ["sorun", "lar", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "991", "word": "expired", "segments": ["expired"], "labels": [], "origin": "annotator_agreed"}
+{"id": "992", "word": "Alacağı", "segments": ["Al", "acağ", "ı"], "labels": [], "origin": "annotator_agreed"}
+{"id": "993", "word": "dönüşerek", "segments": ["dönüş", "erek"], "labels": ["CV"], "origin": "annotator_agreed"}
+{"id": "994", "word": "geldiğince", "segments": ["gel", "diğ", "ince"], "labels": ["PTCP", "CV"], "origin": "adjudicated_new"}
+{"id": "995", "word": "bizden", "segments": ["biz", "den"], "labels": ["ABL"], "origin": "annotator_agreed"}
+{"id": "996", "word": "ordularına", "segments": ["ordu", "lar", "ı", "na"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "997", "word": "şartlarına", "segments": ["şart", "lar", "ı", "na"], "labels": ["PL", "P3SG", "DAT"], "origin": "adjudicated_new"}
+{"id": "998", "word": "konu", "segments": ["konu"], "labels": [], "origin": "annotator_agreed"}
+{"id": "999", "word": "planlanan", "segments": ["planla", "n", "an"], "labels": ["PASS/REFL", "PTCP"], "origin": "adjudicated_new"}
+{"id": "1000", "word": "fakat", "segments": ["fakat"], "labels": [], "origin": "annotator_agreed"}

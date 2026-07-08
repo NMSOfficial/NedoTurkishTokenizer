@@ -1,0 +1,548 @@
+{
+  "labels": [
+    {
+      "label": "ACC",
+      "hit": 17,
+      "fp": 167,
+      "fn": 2,
+      "precision": 0.0924,
+      "recall": 0.8947
+    },
+    {
+      "label": "P3SG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 112,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "GEN",
+      "hit": 3,
+      "fp": 105,
+      "fn": 0,
+      "precision": 0.0278,
+      "recall": 1.0
+    },
+    {
+      "label": "PL",
+      "hit": 64,
+      "fp": 61,
+      "fn": 6,
+      "precision": 0.512,
+      "recall": 0.9143
+    },
+    {
+      "label": "P3",
+      "hit": 0,
+      "fp": 51,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "NEG",
+      "hit": 3,
+      "fp": 31,
+      "fn": 6,
+      "precision": 0.0882,
+      "recall": 0.3333
+    },
+    {
+      "label": "DAT",
+      "hit": 58,
+      "fp": 28,
+      "fn": 5,
+      "precision": 0.6744,
+      "recall": 0.9206
+    },
+    {
+      "label": "PTCP",
+      "hit": 0,
+      "fp": 0,
+      "fn": 33,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "VN",
+      "hit": 0,
+      "fp": 0,
+      "fn": 27,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PASS/REFL",
+      "hit": 0,
+      "fp": 0,
+      "fn": 23,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "LOC",
+      "hit": 50,
+      "fp": 10,
+      "fn": 12,
+      "precision": 0.8333,
+      "recall": 0.8065
+    },
+    {
+      "label": "ADJ",
+      "hit": 0,
+      "fp": 0,
+      "fn": 21,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "CV",
+      "hit": 0,
+      "fp": 0,
+      "fn": 19,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "P3SG/ACC",
+      "hit": 0,
+      "fp": 0,
+      "fn": 17,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PAST",
+      "hit": 15,
+      "fp": 12,
+      "fn": 5,
+      "precision": 0.5556,
+      "recall": 0.75
+    },
+    {
+      "label": "COP",
+      "hit": 0,
+      "fp": 0,
+      "fn": 16,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "2SG",
+      "hit": 0,
+      "fp": 14,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "NMLZ",
+      "hit": 0,
+      "fp": 0,
+      "fn": 14,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "1PL",
+      "hit": 0,
+      "fp": 13,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PART.SFX",
+      "hit": 0,
+      "fp": 13,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "INS",
+      "hit": 11,
+      "fp": 11,
+      "fn": 1,
+      "precision": 0.5,
+      "recall": 0.9167
+    },
+    {
+      "label": "AGT",
+      "hit": 2,
+      "fp": 2,
+      "fn": 9,
+      "precision": 0.5,
+      "recall": 0.1818
+    },
+    {
+      "label": "AOR",
+      "hit": 19,
+      "fp": 4,
+      "fn": 7,
+      "precision": 0.8261,
+      "recall": 0.7308
+    },
+    {
+      "label": "EVID",
+      "hit": 0,
+      "fp": 11,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "FUT",
+      "hit": 1,
+      "fp": 11,
+      "fn": 0,
+      "precision": 0.0833,
+      "recall": 1.0
+    },
+    {
+      "label": "P1PL",
+      "hit": 14,
+      "fp": 8,
+      "fn": 3,
+      "precision": 0.6364,
+      "recall": 0.8235
+    },
+    {
+      "label": "CAUS",
+      "hit": 0,
+      "fp": 0,
+      "fn": 10,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "CONV",
+      "hit": 0,
+      "fp": 10,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "ABL",
+      "hit": 18,
+      "fp": 7,
+      "fn": 2,
+      "precision": 0.72,
+      "recall": 0.9
+    },
+    {
+      "label": "DI2SG",
+      "hit": 0,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "KI",
+      "hit": 0,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "P1S",
+      "hit": 0,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "P3PL",
+      "hit": 0,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PASS+NZ",
+      "hit": 0,
+      "fp": 8,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "DIK",
+      "hit": 0,
+      "fp": 7,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "UNK",
+      "hit": 0,
+      "fp": 0,
+      "fn": 7,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "FUT.PTCP",
+      "hit": 0,
+      "fp": 0,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "NEG.AOR",
+      "hit": 0,
+      "fp": 0,
+      "fn": 6,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PROG",
+      "hit": 15,
+      "fp": 0,
+      "fn": 6,
+      "precision": 1.0,
+      "recall": 0.7143
+    },
+    {
+      "label": "EQU",
+      "hit": 0,
+      "fp": 5,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "REL",
+      "hit": 0,
+      "fp": 0,
+      "fn": 5,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "A1PL",
+      "hit": 0,
+      "fp": 0,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "A1SG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "A2PL",
+      "hit": 0,
+      "fp": 0,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "ABIL",
+      "hit": 7,
+      "fp": 2,
+      "fn": 2,
+      "precision": 0.7778,
+      "recall": 0.7778
+    },
+    {
+      "label": "ABSTR",
+      "hit": 0,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "DI1SG",
+      "hit": 0,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "EVID/PTCP",
+      "hit": 0,
+      "fp": 0,
+      "fn": 4,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "INF",
+      "hit": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2
+    },
+    {
+      "label": "P2PL",
+      "hit": 1,
+      "fp": 0,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.2
+    },
+    {
+      "label": "WHEN",
+      "hit": 0,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "A2PL/IMP",
+      "hit": 0,
+      "fp": 0,
+      "fn": 3,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "A3PL",
+      "hit": 0,
+      "fp": 0,
+      "fn": 3,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "COND",
+      "hit": 2,
+      "fp": 0,
+      "fn": 3,
+      "precision": 1.0,
+      "recall": 0.4
+    },
+    {
+      "label": "NEC",
+      "hit": 0,
+      "fp": 0,
+      "fn": 3,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "WITH",
+      "hit": 0,
+      "fp": 3,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "GEN/P2SG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 2,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "P1SG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 2,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PART.ACT",
+      "hit": 0,
+      "fp": 2,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PL.SFX",
+      "hit": 0,
+      "fp": 2,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "VN/NEG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 2,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "A1SG/P1SG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "ADJ.TR",
+      "hit": 0,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PART",
+      "hit": 0,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PAST.A1PL",
+      "hit": 0,
+      "fp": 0,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PAST.A1PL/PTCP",
+      "hit": 0,
+      "fp": 0,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "PAST.A2SG",
+      "hit": 0,
+      "fp": 0,
+      "fn": 1,
+      "precision": 0.0,
+      "recall": 0.0
+    },
+    {
+      "label": "WITHOUT",
+      "hit": 0,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.0,
+      "recall": 0.0
+    }
+  ]
+}
