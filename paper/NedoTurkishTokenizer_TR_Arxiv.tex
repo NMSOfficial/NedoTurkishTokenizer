@@ -1,0 +1,175 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[turkish]{babel}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\geometry{margin=1in}
+\hypersetup{colorlinks=true,linkcolor=black,citecolor=black,urlcolor=blue}
+
+\title{NedoTurkishTokenizer: Türkçe İçin Morfoloji-Bilinçli Tokenizer ve Final1000 Değerlendirme Kümesi}
+\author{Nedim Mutlu Sezer\\Ethosoft Research Group\\\texttt{nedim@ethosoft.org}}
+\date{2026}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Türkçe, eklemeli yapısı nedeniyle standart alt-sözcük tokenizasyon yöntemleri için zorlayıcı bir dildir. Aynı kökten türeyen çok sayıda biçim, kelime içinde birden fazla morfemin ardışık olarak bulunması ve ses uyumuna bağlı ek yüzeyleri, rastgele alt-sözcük parçalanmalarının dilbilgisel sınırlarla uyumsuz olmasına yol açabilir. Bu çalışma, Türkçe için morfoloji-bilinçli bir tokenizer olan NedoTurkishTokenizer'ı ve 1.000 örnekten oluşan insan denetimli Final1000 değerlendirme kümesini sunar. Sistem, kök ve ek birimlerini ayırmayı, her parça için token tipi ve morfolojik konum gibi metadata üretmeyi hedefler. Final1000 üzerinde NedoTurkishTokenizer 0.6966 boundary F1 değerine ulaşır; aynı sette Morpheus neural 0.5443, XLM-R 0.4281, SentencePiece BPE 2000 0.3607, SentencePiece Unigram 2000 0.3585, BERTurk 0.2817 ve mBERT 0.2801 boundary F1 üretir. Çalışma ayrıca kayıpsız API için 10.000 örnekte birebir roundtrip validasyonu, etiket başarımı, ablation sonuçları ve yabancı kök + Türkçe ek içeren code-mix örneklerdeki sınırlılıkları raporlar. Kod, veri ve arşivlenmiş sürüm açık olarak yayımlanmıştır.
+\end{abstract}
+
+\section{Giriş}
+Tokenizasyon, doğal dil işleme sistemlerinde ham metni modelin işleyebileceği birimlere dönüştüren temel adımdır. İngilizce-merkezli BPE veya unigram tabanlı tokenizasyon yaklaşımları çok dilli modellerde yaygın olarak kullanılsa da, Türkçe gibi eklemeli dillerde kelime içi morfolojik yapıyı doğrudan yansıtmayabilir. Türkçede \emph{kitaplardan} biçimi \emph{kitap + lar + dan}, \emph{geldim} biçimi ise \emph{gel + dim} olarak analiz edilebilir. Bu tür yapılar, yalnızca yüzey frekanslarına dayalı alt-sözcük istatistikleriyle parçalandığında morfolojik sınırların korunması garanti değildir.
+
+Bu çalışmanın amacı, Türkçe için kök-ek ayrımına duyarlı, metadata üreten ve değerlendirilebilir bir tokenizer ortaya koymaktır. NedoTurkishTokenizer yalnızca metni tokenlara ayırmaz; her token için ROOT, SUFFIX, FOREIGN, PUNCT, NUM, URL gibi tip bilgileri, morfolojik sıra bilgisi ve bazı kanonik ek etiketleri üretir. Bu metadata, hem hata analizi hem de Türkçe'ye özel model mimarileri için kullanılabilecek ek sinyaller sağlar.
+
+Katkılarımız şunlardır:
+\begin{itemize}[leftmargin=*]
+    \item Türkçe için morfoloji-bilinçli bir tokenizer uygulaması sunuyoruz.
+    \item 1.000 örnekli insan denetimli Final1000 değerlendirme kümesini yayımlıyoruz.
+    \item NedoTurkishTokenizer'ı neural ve alt-sözcük tabanlı baseline sistemlerle aynı boundary metriği altında karşılaştırıyoruz.
+    \item Kayıpsız roundtrip API'si, ablation deneyleri, etiket başarımı ve code-mix hata analizlerini raporluyoruz.
+    \item Kod, veri, Zenodo DOI ve Hugging Face dataset sürümünü açık erişime sunuyoruz.
+\end{itemize}
+
+\section{Türkçede Tokenizasyon Problemi}
+Türkçe eklemeli bir dildir. Bir köke çok sayıda yapım ve çekim eki eklenebilir; eklerin yüzey biçimleri büyük ünlü uyumu, ünsüz benzeşmesi ve kaynaştırma sesleri gibi süreçlerden etkilenebilir. Bu nedenle aynı işlevi taşıyan ek birden fazla yüzey biçimiyle görülebilir. Örneğin çoğul eki \emph{-lar/-ler}, ayrılma eki \emph{-dan/-den/-tan/-ten}, belirtme durumu eki ise \emph{-ı/-i/-u/-ü/-yı/-yi/-yu/-yü} biçimlerinde görünebilir.
+
+Standart alt-sözcük tokenizasyonu çoğu zaman bu biçimleri istatistiksel parçalar olarak ele alır. Bu yaklaşım modelleme açısından pratik olsa da, Türkçe açısından iki temel sorun doğurur. Birincisi, parçalar morfolojik sınırlarla örtüşmeyebilir. İkincisi, aynı kanonik ekin farklı yüzey biçimleri model tarafından bağımsız parçalar gibi görülebilir. NedoTurkishTokenizer bu iki sorunu tamamen çözdüğünü iddia etmez; ancak tokenizasyon çıktısına morfolojik sinyal ekleyerek daha yorumlanabilir ve ölçülebilir bir ara temsil sunar.
+
+\section{NedoTurkishTokenizer}
+NedoTurkishTokenizer, Türkçe kelimeleri kök ve ek birimlerine ayırmaya çalışan kural ve sözlük destekli bir tokenizer'dır. Çıktı, düz string listesi yerine yapılandırılmış token sözlüklerinden oluşur. Basit bir örnek aşağıdadır:
+
+\begin{verbatim}
+NedoTurkishTokenizer().tokenize("kitaplardan geldim")
+\end{verbatim}
+
+Beklenen yapılandırılmış çıktı özetle şu parçaları içerir:
+
+\begin{verbatim}
+kitap  ROOT    morph_pos=0
+lar    SUFFIX  morph_pos=1  canonical=PL
+dan    SUFFIX  morph_pos=2  canonical=ABL
+gel    ROOT    morph_pos=0
+dim    SUFFIX  morph_pos=1  suffix_label=-DI1SG
+\end{verbatim}
+
+Tokenizer'ın temel alanları şunlardır:
+\begin{itemize}[leftmargin=*]
+    \item \texttt{token}: yüzey veya morfem parçası,
+    \item \texttt{token\_type}: ROOT, SUFFIX, FOREIGN, PUNCT, NUM vb. tip,
+    \item \texttt{morph\_pos}: kelime içindeki morfolojik sıra,
+    \item \texttt{\_suffix\_label}: ek yüzey etiketi,
+    \item \texttt{\_canonical}: aynı işlevi taşıyan ek varyantlarını birleştiren kanonik etiket.
+\end{itemize}
+
+Normal \texttt{tokenize()} çağrısı, morfoloji-bilinçli parçalama üretir. Kayıpsız roundtrip iddiası ise özellikle \texttt{tokenize\_lossless()} ve \texttt{detokenize()} API çiftine aittir. Bu ayrım önemlidir; çünkü normal tokenizasyon dilbilgisel parçalama hedeflerken, kayıpsız API yüzey metni birebir geri üretmeyi hedefler.
+
+\section{Final1000 Değerlendirme Kümesi}
+Final1000, Türkçe morfoloji-bilinçli tokenizasyonu değerlendirmek için hazırlanan 1.000 örnekli bir gold kümedir. Küme, önceki adjudication örnekleri, annotator agreement örnekleri ve yeni adjudication örneklerinden oluşur. Kaynak dağılımı şu şekildedir: 50 eski adjudicated örnek, 754 annotator-agreed örnek ve 196 yeni adjudicated örnek. Nihai build aşamasında raporlanan problemli örnek sayısı sıfırdır.
+
+Veri kümesi JSONL ve CSV formatlarında yayımlanmıştır. Dondurulmuş metrikler, hata analizleri ve validasyon notları repo içinde ayrı dosyalar halinde tutulur. Bu tasarım, sonuçların daha sonra yanlışlıkla değişmesini önlemek ve karşılaştırmaları izlenebilir kılmak için kullanılmıştır.
+
+\section{Deney Düzeneği}
+Değerlendirmede temel ölçüt boundary precision, recall ve F1 değeridir. Bu metrik, sistemin ürettiği morfolojik sınırların gold sınırlarla ne kadar örtüştüğünü ölçer. Ayrıca ortalama token sayısı, tek parça bırakma oranı, exact match oranı, aşırı bölme ve eksik bölme oranları raporlanır. Ek etiketleri için ayrıca label precision ve label recall değerleri hesaplanır.
+
+Karşılaştırılan sistemler şunlardır: Morpheus neural, XLM-R, BERTurk, mBERT, SentencePiece BPE 2000, SentencePiece Unigram 2000, karakter baseline ve whole-word baseline. Tüm sistemler Final1000 üzerinde aynı dondurulmuş protokolle değerlendirilmiştir.
+
+\section{Sonuçlar}
+Tablo~\ref{tab:main-results}, Final1000 üzerinde boundary F1 sonuçlarını göstermektedir.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{lr}
+\toprule
+Sistem & Boundary F1 \\
+\midrule
+NedoTurkishTokenizer & 0.6966 \\
+Morpheus neural & 0.5443 \\
+XLM-R & 0.4281 \\
+SentencePiece BPE 2000 & 0.3607 \\
+SentencePiece Unigram 2000 & 0.3585 \\
+BERTurk & 0.2817 \\
+mBERT & 0.2801 \\
+Karakter baseline & 0.2882 \\
+Whole-word baseline & 0.0000 \\
+\bottomrule
+\end{tabular}
+\caption{Final1000 üzerinde boundary F1 sonuçları.}
+\label{tab:main-results}
+\end{table}
+
+NedoTurkishTokenizer'ın ayrıntılı Final1000 değerleri şunlardır: precision 0.7717, recall 0.6348, boundary F1 0.6966, ortalama token sayısı 1.946, tek parça bırakma oranı \%15.2, exact match oranı \%64.7, aşırı bölme oranı \%16.7 ve eksik bölme oranı \%30.9. Etiket tarafında label precision 0.5318, label recall 0.4129 olarak ölçülmüştür.
+
+Bu sonuçlar, sistemin morfolojik sınır yakalamada baseline'lardan daha güçlü olduğunu; ancak özellikle recall ve etiketleme tarafında hâlâ geliştirme alanı bulunduğunu göstermektedir. Bu nedenle çalışma, tokenizer'ı nihai çözüm olarak değil, açık kaynak ve ölçülebilir bir Türkçe morfolojik tokenizasyon aracı olarak konumlandırır.
+
+\section{Ablation Sonuçları}
+Ablation deneyleri, sistem bileşenlerinin etkisini ölçmek için yapılmıştır. Full sistem 0.6966 F1 üretirken, domain bileşeninin kapatılması aynı F1 değerini korumuştur. Lexicon bileşeninin kapatılması F1 değerini 0.0965'e düşürmüştür. Maksimum derinlik 3 ayarında F1 0.7009, derinlik 1 ayarında ise 0.4763 olarak ölçülmüştür. Bu sonuçlar, kök/lexicon bilgisinin sistem başarısı için kritik olduğunu; morfolojik derinlik ayarının ise precision--recall dengesini etkilediğini göstermektedir.
+
+\section{Roundtrip ve Validasyon}
+Kayıpsız API için 10.000 örneklik roundtrip testi yapılmıştır. Bu testte 10.000 örneğin tamamı birebir geri üretilmiş ve mismatch sayısı sıfır olarak raporlanmıştır. Bu sonuç yalnızca \texttt{tokenize\_lossless()} ve \texttt{detokenize()} birlikte kullanıldığında geçerlidir. Normal \texttt{tokenize()} çağrısı morfolojik parçalama yaptığı için her kullanımda birebir yüzey roundtrip garantisi olarak yorumlanmamalıdır.
+
+Ek bir probing değerlendirmesinde root recovery accuracy 0.712, suffix count accuracy 0.736, suffix count MAE 0.362 ve boundary exact accuracy 0.647 olarak ölçülmüştür. Kısa örneklerde boundary exact accuracy 0.6953 iken, uzun örneklerde 0.4959'a düşmektedir. Bu fark, uzun ve çok ekli biçimlerin hâlâ zorlayıcı olduğunu göstermektedir.
+
+\section{Code-mix ve Yabancı Kök Sınırlılığı}
+Yabancı kök üzerine Türkçe ek alan biçimler sistem için belirgin bir zorluktur. 240 örnekli code-mix/foreign-root stres testinde precision 0.5882, recall 0.1667 ve F1 0.2597 olarak ölçülmüştür. Tek parça bırakma oranı \%81.67'dir. \emph{meetingler}, \emph{pluginler}, \emph{driverde} gibi örneklerde sistem çoğu zaman yabancı kökü ve Türkçe eki ayırmak yerine kelimeyi tek parça bırakmaktadır. Bu sınırlılık, Final1000 ana sonucundan ayrı olarak raporlanmalı ve gelecekte genişletilmiş bir code-mix gold set ile iyileştirilmelidir.
+
+\section{Veri ve Kod Erişimi}
+Kaynak kod GitHub üzerinde yayımlanmıştır:
+\begin{center}
+\url{https://github.com/NMSOfficial/NedoTurkishTokenizer}
+\end{center}
+
+Final1000 veri kümesi Hugging Face üzerinde yayımlanmıştır:
+\begin{center}
+\url{https://huggingface.co/datasets/Ethosoft/NedoTurkishTokenizer-Final1000}
+\end{center}
+
+Arşivlenmiş sürüm Zenodo DOI ile erişilebilir durumdadır:
+\begin{center}
+\url{https://doi.org/10.5281/zenodo.21274980}
+\end{center}
+
+\section{Sınırlılıklar}
+Bu çalışmadaki sonuçlar, raporlanan değerlendirme kümeleriyle sınırlıdır. Final1000 ana kümesi, seçilmiş Türkçe morfolojik tokenizasyon örneklerini ölçer; tüm alanları, tüm yazım çeşitlerini veya tüm code-mix kullanımlarını kapsamaz. Code-mix ve yabancı kök üzerine Türkçe ek alan biçimler sistemin en zayıf olduğu bölümlerden biridir. Ayrıca kayıpsız roundtrip sonucu normal tokenizasyon API'sine değil, özel kayıpsız API çiftine aittir. Etiketleme başarımı boundary başarımından daha düşüktür ve suffix label tarafında daha ayrıntılı gold veri gereklidir.
+
+\section{Sonuç}
+NedoTurkishTokenizer, Türkçe için morfoloji-bilinçli tokenizasyonu açık kaynak, ölçülebilir ve yeniden üretilebilir bir biçimde ele alır. Final1000 değerlendirme kümesi üzerinde baseline sistemlere göre daha yüksek boundary F1 üretir ve kök-ek ayrımıyla birlikte metadata sağlar. Bununla birlikte, etiketleme, uzun biçimler ve yabancı kök + Türkçe ek içeren code-mix örneklerde önemli sınırlılıklar devam etmektedir. Gelecek çalışmalarda daha büyük code-mix gold setleri, daha güçlü yabancı kök tanıma ve morfolojik etiketleme doğruluğunu artıran yöntemler hedeflenmektedir.
+
+\section*{Atıf}
+Bu repoyu veya Final1000 veri setini kullanırsanız aşağıdaki kaydı kullanabilirsiniz:
+
+\begin{verbatim}
+@software{sezer_nedoturkishtokenizer_2026,
+  author    = {Sezer, Nedim Mutlu},
+  title     = {NedoTurkishTokenizer: A Morphology-Aware Turkish Tokenizer},
+  year      = {2026},
+  version   = {2.1.3},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21274980},
+  url       = {https://doi.org/10.5281/zenodo.21274980}
+}
+\end{verbatim}
+
+\begin{thebibliography}{9}
+\bibitem{schuster2012}
+Schuster, M. and Nakajima, K. (2012). Japanese and Korean voice search. \emph{ICASSP}.
+
+\bibitem{kudo2018}
+Kudo, T. and Richardson, J. (2018). SentencePiece: A simple and language independent subword tokenizer and detokenizer for neural text processing. \emph{EMNLP: System Demonstrations}.
+
+\bibitem{devlin2019}
+Devlin, J., Chang, M.-W., Lee, K., and Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. \emph{NAACL}.
+
+\bibitem{conneau2020}
+Conneau, A. et al. (2020). Unsupervised cross-lingual representation learning at scale. \emph{ACL}.
+
+\bibitem{coltekin2022}
+Çöltekin, Ç., Doğruöz, A. S., and Çetinoğlu, Ö. (2022). Resources for Turkish natural language processing: A critical survey. \emph{Language Resources and Evaluation}.
+\end{thebibliography}
+
+\end{document}

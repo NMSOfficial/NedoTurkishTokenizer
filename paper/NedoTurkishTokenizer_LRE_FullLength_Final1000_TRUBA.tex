@@ -79,14 +79,14 @@ The primary metric is boundary F1. Given a gold segmentation and a predicted seg
 We also report exact boundary-set accuracy, the percentage of items whose predicted boundary set exactly matches the gold set; over-segmentation rate, the percentage of items with at least one spurious boundary; under-segmentation rate, the percentage with at least one missing boundary; average tokens per word; and single-root rate on words whose gold analysis contains more than one segment. For suffix labels, we report label precision and label recall using canonical or suffix-label metadata when available.
 
 \section{Experimental setup}
-We evaluate NedoTurkishTokenizer against eight baseline families: whole-word, character, BERTurk WordPiece, XLM-R SentencePiece, mBERT WordPiece, SentencePiece BPE with 800, 2,000, and 8,000 vocabulary settings, SentencePiece Unigram with 800, 2,000, and 8,000 settings, and Morpheus neural segmentation. The main table reports the strongest or most relevant members for readability, while the full JSON result files retain all measured settings.
+We evaluate NedoTurkishTokenizer against eight baseline families: whole-word, character, BERTurk WordPiece, XLM-R SentencePiece, mBERT WordPiece, SentencePiece BPE with 800, 2,000, and 8,000 vocabulary settings, SentencePiece Unigram with 800, 2,000, and 8,000 settings, and Morpheus neural segmentation. The main table reports the competitive or most relevant members for readability, while the full JSON result files retain all measured settings.
 
 The Morpheus neural run used the official checkpoint and completed with \texttt{missing\_keys=0} and \texttt{unexpected\_keys=0}, which is important because a partially loaded checkpoint would make the comparison invalid. The run evaluated all 1,000 items and took 11.524 seconds in the recorded environment.
 
 For statistical testing, we used paired bootstrap resampling over the 1,000 gold items. The reported confidence intervals are given as lower, median, and upper bootstrap estimates for the F1 delta. The recorded p-values are zero at the precision of the experiment output, so we report them as approximately zero rather than as a mathematically exact value.
 
 \section{Main results}
-Table~\ref{tab:main} shows the main Final1000 boundary results. NedoTurkishTokenizer obtains 0.6966 F1, substantially above all measured baselines. The strongest external baseline is the Morpheus neural model at 0.5443 F1. Among general-purpose subword tokenizers, XLM-R is the strongest at 0.4281 F1. SentencePiece BPE and Unigram at 2,000 vocabulary size cluster around 0.36 F1. Character tokenization has perfect boundary recall but low precision, producing 0.2882 F1. Whole-word tokenization cannot predict internal morpheme boundaries and therefore has zero boundary F1.
+Table~\ref{tab:main} shows the main Final1000 boundary results. NedoTurkishTokenizer obtains 0.6966 F1, substantially above all measured baselines. The competitive external baseline is the Morpheus neural model at 0.5443 F1. Among general-purpose subword tokenizers, XLM-R is the competitive at 0.4281 F1. SentencePiece BPE and Unigram at 2,000 vocabulary size cluster around 0.36 F1. Character tokenization has perfect boundary recall but low precision, producing 0.2882 F1. Whole-word tokenization cannot predict internal morpheme boundaries and therefore has zero boundary F1.
 
 \begin{table}[h]
 \centering
@@ -413,6 +413,12 @@ NedoTurkishTokenizer provides a strong morphology-aware tokenizer and an accompa
 
 \textbf{Ethics statement.} The benchmark consists of Turkish word-level segmentation annotations. If any source words were drawn from private or restricted data, the source and permission status must be documented before submission.
 
+
+
+\paragraph{Lossless roundtrip validation.}
+A separate lossless roundtrip check was run on 10,000 cases (10000 cases).
+The check produced 0 mismatches.
+This result applies to \texttt{tokenize\_lossless()} followed by \texttt{detokenize()}, and should not be interpreted as a guarantee for every normal \texttt{tokenize()} call.
 
 \section*{Limitations}
 
