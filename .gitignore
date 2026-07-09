@@ -20,3 +20,11 @@ dist/
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+
+hf_final1000_upload/
+nedo_finalize_release.py
+release_build/NEXT_STEPS.txt
+release_build/*.zip
+release_build/arxiv_source/
+release_build/lre_submission/
+release_build/paper_compile/
