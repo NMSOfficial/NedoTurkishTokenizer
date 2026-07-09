@@ -40,14 +40,6 @@ examples = [json.loads(line) for line in path.read_text(encoding="utf-8").splitl
 print(len(examples))
 ```
 
-## Veri ve DOI
-
-| Kaynak | Bağlantı |
-|---|---|
-| GitHub repository | [`NMSOfficial/NedoTurkishTokenizer`](https://github.com/NMSOfficial/NedoTurkishTokenizer) |
-| Hugging Face dataset | [`Ethosoft/NedoTurkishTokenizer-Final1000`](https://huggingface.co/datasets/Ethosoft/NedoTurkishTokenizer-Final1000) |
-| Zenodo DOI | [`10.5281/zenodo.21274980`](https://doi.org/10.5281/zenodo.21274980) |
-
 ## Sonuç dosyaları
 
 Bu veri setiyle üretilen dondurulmuş metrikler için:
@@ -69,18 +61,3 @@ Hata analizleri için:
 | Hugging Face dataset | [`Ethosoft/NedoTurkishTokenizer-Final1000`](https://huggingface.co/datasets/Ethosoft/NedoTurkishTokenizer-Final1000) |
 | Zenodo DOI | [`10.5281/zenodo.21274980`](https://doi.org/10.5281/zenodo.21274980) |
 
-## Atıf
-
-Bu repoyu veya Final1000 veri setini kullanırsanız aşağıdaki kaydı kullanabilirsiniz.
-
-```bibtex
-@software{sezer_nedoturkishtokenizer_2026,
-  author    = {Sezer, Nedim Mutlu},
-  title     = {NedoTurkishTokenizer: A Morphology-Aware Turkish Tokenizer},
-  year      = {2026},
-  version   = {2.1.3},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.21274980},
-  url       = {https://doi.org/10.5281/zenodo.21274980}
-}
-```
