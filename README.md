@@ -49,7 +49,8 @@ print(tokenizer.tokenize("kitaplardan geldim"))
     {"token": "kitap", "token_type": "ROOT", "morph_pos": 0},
     {"token": "lar", "token_type": "SUFFIX", "morph_pos": 1, "_suffix_label": "-PL", "_canonical": "PL"},
     {"token": "dan", "token_type": "SUFFIX", "morph_pos": 2, "_suffix_label": "-ABL", "_canonical": "ABL"},
-    {"token": "geldim", "token_type": "ROOT", "morph_pos": 0}
+    {"token": "gel", "token_type": "ROOT", "morph_pos": 0},
+    {"token": "dim", "token_type": "SUFFIX", "morph_pos": 1, "_suffix_label": "-DI1SG"}
 ]
 ```
 

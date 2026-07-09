@@ -5,9 +5,10 @@ type: software
 authors:
   - family-names: Sezer
     given-names: Nedim Mutlu
-repository-code: "TO_BE_FILLED"
+    email: nedim@ethosoft.org
+repository-code: "https://github.com/NMSOfficial/NedoTurkishTokenizer"
 license: MIT
-version: "1.0.0-final1000"
+version: "2.1.1"
 date-released: "2026-07-07"
 keywords:
   - Turkish NLP

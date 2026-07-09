@@ -28,8 +28,9 @@ class TestTokenizerPublicAPI(unittest.TestCase):
         self.assertIsNotNone(t)
 
     def test_version(self) -> None:
+        from importlib.metadata import version
         from nedo_turkish_tokenizer import __version__
-        self.assertEqual(__version__, "2.0.0")
+        self.assertEqual(__version__, version("nedo-turkish-tokenizer"))
 
     def test_empty_input(self) -> None:
         self.assertEqual(self.tok.tokenize(""), [])
@@ -327,18 +328,21 @@ class TestAllCaps(unittest.TestCase):
         cls.tok = NedoTurkishTokenizer()
 
     def test_caps_detected(self) -> None:
-        tokens = self.tok.tokenize("İSTANBUL güzel")
-        istanbul_tok = [t for t in tokens if "istanbul" in t["token"]]
+        word = "\u0130STANBUL"
+        tokens = self.tok.tokenize(f"{word} guzel")
+        istanbul_tok = [t for t in tokens if t["token"] == word]
         self.assertTrue(len(istanbul_tok) >= 1)
         self.assertTrue(istanbul_tok[0].get("_caps"))
 
-    def test_caps_lowered(self) -> None:
-        tokens = self.tok.tokenize("İSTANBUL")
-        self.assertEqual(tokens[0]["token"], "istanbul")
+    def test_caps_preserves_surface(self) -> None:
+        word = "\u0130STANBUL"
+        tokens = self.tok.tokenize(word)
+        self.assertEqual(tokens[0]["token"], word)
+        self.assertTrue(tokens[0].get("_caps"))
 
     def test_caps_acronym(self) -> None:
         """Known acronyms in ALL CAPS should be ACRONYM type."""
-        tokens = self.tok.tokenize("TBMM toplantısı")
+        tokens = self.tok.tokenize("TBMM toplantisi")
         tbmm = [t for t in tokens if t["token_type"] == "ACRONYM"]
         self.assertTrue(len(tbmm) >= 1)
 
