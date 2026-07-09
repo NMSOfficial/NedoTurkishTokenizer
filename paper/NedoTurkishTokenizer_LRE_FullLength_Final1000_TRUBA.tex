@@ -414,6 +414,13 @@ NedoTurkishTokenizer provides a strong morphology-aware tokenizer and an accompa
 \textbf{Ethics statement.} The benchmark consists of Turkish word-level segmentation annotations. If any source words were drawn from private or restricted data, the source and permission status must be documented before submission.
 
 
+\section*{Limitations}
+
+The reported results are limited to the evaluation sets described in this paper.
+The main Final1000 set measures morphology-aware tokenization on curated Turkish examples.
+Performance is weaker on code-mixed foreign-root forms with Turkish suffixes, and this portion of the benchmark should be expanded in future work.
+The lossless roundtrip result applies to the explicit lossless API rather than to every normal tokenization call.
+
 \section*{Data and Code Availability}
 
 The source code of NedoTurkishTokenizer is available at:
@@ -446,4 +453,3 @@ Coltekin, C., Dogruoz, A. S., and Cetinoglu, O. (2022). Resources for Turkish na
 \end{thebibliography}
 
 \end{document}
-

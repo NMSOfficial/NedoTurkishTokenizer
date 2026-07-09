@@ -8,8 +8,8 @@ authors:
     email: nedim@ethosoft.org
 repository-code: "https://github.com/NMSOfficial/NedoTurkishTokenizer"
 license: MIT
-version: "2.1.1"
-date-released: "2026-07-07"
+version: "2.1.3"
+date-released: "2026-07-09"
 keywords:
   - Turkish NLP
   - morphology-aware tokenization

@@ -150,7 +150,19 @@ Paper files are available under [`paper/`](paper/). Paper title: **NedoTurkishTo
 
 ## Citation
 
-Citation metadata: [`CITATION.cff`](CITATION.cff).
+If you use this repository or the Final1000 evaluation set, cite the archived release:
+
+```bibtex
+@software{sezer_nedoturkishtokenizer_2026,
+  author    = {Sezer, Nedim Mutlu},
+  title     = {NedoTurkishTokenizer: A Morphology-Aware Turkish Tokenizer},
+  year      = {2026},
+  version   = {2.1.3},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21274980},
+  url       = {https://doi.org/10.5281/zenodo.21274980}
+}
+```
 
 ## License
 
