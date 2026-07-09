@@ -95,7 +95,15 @@ Final1000 is a 1,000-item evaluation set for Turkish morphological tokenization.
 | [`frozen_results/RESULTS_FREEZE.md`](frozen_results/RESULTS_FREEZE.md) | Frozen result summary |
 | [`frozen_results/README_FINAL1000.md`](frozen_results/README_FINAL1000.md) | Final1000 notes |
 
-Hugging Face or Zenodo links will be added after public dataset release.
+Hugging Face dataset: [`Ethosoft/NedoTurkishTokenizer-Final1000`](https://huggingface.co/datasets/Ethosoft/NedoTurkishTokenizer-Final1000). Zenodo DOI: [`10.5281/zenodo.21274980`](https://doi.org/10.5281/zenodo.21274980).
+
+## Data and DOI
+
+| Resource | Link |
+|---|---|
+| GitHub repository | [`NMSOfficial/NedoTurkishTokenizer`](https://github.com/NMSOfficial/NedoTurkishTokenizer) |
+| Hugging Face dataset | [`Ethosoft/NedoTurkishTokenizer-Final1000`](https://huggingface.co/datasets/Ethosoft/NedoTurkishTokenizer-Final1000) |
+| Zenodo DOI | [`10.5281/zenodo.21274980`](https://doi.org/10.5281/zenodo.21274980) |
 
 ## Results
 

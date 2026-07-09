@@ -53,4 +53,11 @@ Hata analizleri için:
 
 ## Not
 
-Hugging Face veya Zenodo sürümü oluşturulduğunda bağlantılar bu dosyaya eklenecektir.
+## Dış bağlantılar
+
+| Kaynak | Bağlantı |
+|---|---|
+| GitHub repository | [`NMSOfficial/NedoTurkishTokenizer`](https://github.com/NMSOfficial/NedoTurkishTokenizer) |
+| Hugging Face dataset | [`Ethosoft/NedoTurkishTokenizer-Final1000`](https://huggingface.co/datasets/Ethosoft/NedoTurkishTokenizer-Final1000) |
+| Zenodo DOI | [`10.5281/zenodo.21274980`](https://doi.org/10.5281/zenodo.21274980) |
+
